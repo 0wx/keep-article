@@ -1,0 +1,111 @@
+{
+    "guild": {
+        "id": "590951101600235531",
+        "name": "keep",
+        "iconUrl": "https://cdn.discordapp.com/icons/590951101600235531/15ed6b44b260db676a6ad9be4f554cda.png"
+    },
+    "channel": {
+        "id": "698994569072738442",
+        "type": "GuildTextChat",
+        "category": "🌍global",
+        "name": "🇵🇱keep-pl",
+        "topic": "Polish language channel"
+    },
+    "results": {
+        "487171248388964354": {
+            "id": "487171248388964354",
+            "name": "red133514",
+            "discriminator": "1982",
+            "isBot": false,
+            "avatarUrl": "67a508495b883ea4fccc27419173e07c",
+            "contents": [
+                {
+                    "id": "736574992455827456",
+                    "timestamp": "2020-07-25T13:26:03.103+00:00",
+                    "url": "https://twitter.com/keep_project_PL"
+                }
+            ]
+        },
+        "742415589628182569": {
+            "id": "742415589628182569",
+            "name": "trust_boy",
+            "discriminator": "1481",
+            "isBot": false,
+            "avatarUrl": "449f33fc5ff8ce3ebdbe7ee43da26b55",
+            "contents": [
+                {
+                    "id": "742821715897483285",
+                    "timestamp": "2020-08-11T19:08:18.03+00:00",
+                    "url": "https://medium.com/@dmitrobezru61/jak-korzysta%C4%87-z-aplikacji-tbtc-dapp-4d3ec790d1e3"
+                },
+                {
+                    "id": "742821715897483285",
+                    "timestamp": "2020-08-11T19:08:18.03+00:00",
+                    "url": "https://medium.com/@dmitrobezru61/jak-milenialsi-kszta%C5%82tuj%C4%85-przysz%C5%82o%C5%9B%C4%87-pieni%C4%85dza-f7e0ac80972b"
+                },
+                {
+                    "id": "758681771176362005",
+                    "timestamp": "2020-09-24T13:30:29.874+00:00",
+                    "url": "https://medium.com/@dmitrobezru61/tbtc-bezpieczny-spos%C3%B3b-korzystania-z-bitcoin-w-defi-jest-dost%C4%99pny-w-sieci-tbtc-network-7ed742d7046c"
+                }
+            ]
+        },
+        "470826545867522048": {
+            "id": "470826545867522048",
+            "name": "Pupsik06",
+            "discriminator": "3879",
+            "isBot": false,
+            "avatarUrl": "374722f29df71c970320c64c321ff860",
+            "contents": [
+                {
+                    "id": "749226229147631626",
+                    "timestamp": "2020-08-29T11:17:32.979+00:00",
+                    "url": "https://medium.com/@nesonovy/btc-na-ethereum-tbtc-vs-wbtc-10d782f89746?sk=ef21054994cfbd89de7076f28a8fdbed"
+                }
+            ]
+        },
+        "474114172020457472": {
+            "id": "474114172020457472",
+            "name": "alias",
+            "discriminator": "3824",
+            "isBot": false,
+            "avatarUrl": "fc5d4658c0d54e69ac2f0ee3e49f1772",
+            "contents": [
+                {
+                    "id": "756934534624313424",
+                    "timestamp": "2020-09-19T17:47:36.218+00:00",
+                    "url": "https://medium.com/@alionaalias/dlaczego-keep-jest-wa%C5%BCny-wersja-polska-d9f9b2577097"
+                },
+                {
+                    "id": "756934534624313424",
+                    "timestamp": "2020-09-19T17:47:36.218+00:00",
+                    "url": "2)https://medium.com/@alionaalias/playing-for-keeps-wersja-polska-ee413a8c1384"
+                },
+                {
+                    "id": "756934534624313424",
+                    "timestamp": "2020-09-19T17:47:36.218+00:00",
+                    "url": "3)https://medium.com/@alionaalias/co-to-jest-defi-wersja-polska-b4cfba339393"
+                },
+                {
+                    "id": "756934534624313424",
+                    "timestamp": "2020-09-19T17:47:36.218+00:00",
+                    "url": "https://twitter.com/alionaalias"
+                }
+            ]
+        },
+        "285491460336254976": {
+            "id": "285491460336254976",
+            "name": "choichoi463",
+            "discriminator": "1907",
+            "isBot": false,
+            "avatarUrl": "a460606abd064f7d302cd87ed32f2f43",
+            "contents": [
+                {
+                    "id": "759791096619597855",
+                    "timestamp": "2020-09-27T14:58:33.67+00:00",
+                    "url": "https://faucet.dimensions.network/,"
+                }
+            ]
+        }
+    }
+}

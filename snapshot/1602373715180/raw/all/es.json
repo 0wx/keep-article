@@ -1,0 +1,3418 @@
+{
+  "guild": {
+    "id": "590951101600235531",
+    "name": "keep",
+    "iconUrl": "https://cdn.discordapp.com/icons/590951101600235531/15ed6b44b260db676a6ad9be4f554cda.png"
+  },
+  "channel": {
+    "id": "697367877627674696",
+    "type": "GuildTextChat",
+    "category": "\uD83C\uDF0Dglobal",
+    "name": "\uD83C\uDDEA\uD83C\uDDF8keep-es",
+    "topic": "Spanish language channel"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "697368243207143524",
+      "type": "Default",
+      "timestamp": "2020-04-08T08:52:25.656+00:00",
+      "timestampEdited": "2020-04-20T23:01:09.733+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Bienvenido al canal Keep Discord en espa\u00F1ol.\n\nEste canal es para conversaci\u00F3n y discusi\u00F3n sobre Keep y tBTC escrito en espa\u00F1ol. Este canal no es monitoreado de cerca, pero el equipo de Keep compartir\u00E1 la cobertura de medios de Keep y tBTC en espa\u00F1ol y puede responder (aproximadamente) usando el traductor de Google.\n\n\u00A1Etiquetanos si necesitas algo!\n\n[Miembros del equipo Keep que hablan este idioma: - @Matt Luongo, @Antonio, @BeccaGnzlz ]",
+      "author": {
+        "id": "377359211144675330",
+        "name": "Kris",
+        "discriminator": "8703",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "697368276186955806",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2020-04-08T08:52:33.519+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "377359211144675330",
+        "name": "Kris",
+        "discriminator": "8703",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "701951794661556364",
+      "type": "Default",
+      "timestamp": "2020-04-21T00:25:49.481+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Buenas !",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "702073844403273760",
+      "type": "Default",
+      "timestamp": "2020-04-21T08:30:48.407+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hola",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "702509982024859728",
+      "type": "Default",
+      "timestamp": "2020-04-22T13:23:51.719+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola!",
+      "author": {
+        "id": "664600985959792668",
+        "name": "AlfaBlok",
+        "discriminator": "5239",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664600985959792668/47ea78405bdff7204e351b4a761e9350.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "702534877870030918",
+      "type": "Default",
+      "timestamp": "2020-04-22T15:02:47.351+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola!",
+      "author": {
+        "id": "390209933079085066",
+        "name": "Antonio",
+        "discriminator": "6691",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/390209933079085066/6a6028126cda1d563fa363207816fd5a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "705885012230406205",
+      "type": "Default",
+      "timestamp": "2020-05-01T20:55:01.625+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Buenas!!  Con mucho inter\u00E9s para conocer mas sobre tBTC",
+      "author": {
+        "id": "605110729334587396",
+        "name": "JesusPerez (Crypto Plaza)",
+        "discriminator": "0299",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/605110729334587396/e02d77472a54419a20b895c30e84edc2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4aa.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "677553991974125593",
+            "name": "tbtc",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/677553991974125593.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "706923348415742073",
+      "type": "Default",
+      "timestamp": "2020-05-04T17:41:00.263+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Y yo hablando mi Ingles de barrio por El otro lado jajaja, Hola",
+      "author": {
+        "id": "509928779351719937",
+        "name": "Picas13",
+        "discriminator": "4430",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/509928779351719937/524e6a8f1d31abb37edb861c84081dc8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44b.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "710707741106372639",
+      "type": "Default",
+      "timestamp": "2020-05-15T04:18:49.791+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola bun tutorial de c\u00F3mo usar keep",
+      "author": {
+        "id": "126402635212390400",
+        "name": "Mathiu",
+        "discriminator": "8752",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/126402635212390400/b7601a3ee1eb40055480409e06eb9a20.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "719602695358382202",
+      "type": "Default",
+      "timestamp": "2020-06-08T17:24:12.145+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Che quien da bola aca",
+      "author": {
+        "id": "510059754605772800",
+        "name": "OjosdePez",
+        "discriminator": "6961",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/510059754605772800/007ebf57bfa8304c48ebf8ef4be8bf4b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "719605487657549904",
+      "type": "Default",
+      "timestamp": "2020-06-08T17:35:17.881+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nadie",
+      "author": {
+        "id": "510059754605772800",
+        "name": "OjosdePez",
+        "discriminator": "6961",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/510059754605772800/007ebf57bfa8304c48ebf8ef4be8bf4b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "721868793176915989",
+      "type": "Default",
+      "timestamp": "2020-06-14T23:28:51.967+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola, soy nuevo aqu\u00ED, dej\u00E9 un mensaje en el chat de presentaci\u00F3n en el que me ofrezco para traducir material de ingl\u00E9s a espa\u00F1ol si lo necesitan y la tarea est\u00E1 disponible. En cualquier caso, un saludo a todos.",
+      "author": {
+        "id": "721851651324903466",
+        "name": "dealsur",
+        "discriminator": "7061",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "722273938922537031",
+      "type": "Default",
+      "timestamp": "2020-06-16T02:18:46.24+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola @dealsur mira algunos",
+      "author": {
+        "id": "403979046079430657",
+        "name": "jandelah",
+        "discriminator": "9935",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403979046079430657/3361d003335a6a105fe044088733205a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "722275201483669575",
+      "type": "Default",
+      "timestamp": "2020-06-16T02:23:47.258+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bueno no s\u00E9 porqu\u00E9 no se pueden mandar im\u00E1genes aqu\u00ED pero",
+      "author": {
+        "id": "403979046079430657",
+        "name": "jandelah",
+        "discriminator": "9935",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403979046079430657/3361d003335a6a105fe044088733205a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "722275206013386902",
+      "type": "Default",
+      "timestamp": "2020-06-16T02:23:48.338+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://drive.google.com/file/d/1EEGCv8KdRtDdRJLM5C9m1YlgA8fWCjQB/view?usp=sharing",
+      "author": {
+        "id": "403979046079430657",
+        "name": "jandelah",
+        "discriminator": "9935",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403979046079430657/3361d003335a6a105fe044088733205a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Screenshot_12.jpg",
+          "url": "https://drive.google.com/file/d/1EEGCv8KdRtDdRJLM5C9m1YlgA8fWCjQB/view?usp=sharing",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://lh3.googleusercontent.com/Iz417BwzpuGT7Jj8T0FbTPPRpyn9YwPqBChfmGuD1nps5b2YrPplfDxN10Z6750=w1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "722287439179153409",
+      "type": "Default",
+      "timestamp": "2020-06-16T03:12:24.952+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok, \u0022du\u0022 es una errata, quer\u00EDa poner \u0022su\u0022, y tenedores es sin\u00F3nimo de poseedores, son los que tienen o poseen algo, en este caso bitcoin. Lo de \u0022disponibles al p\u00FAblico\u0022 si es verdad que suena mucho mejor que la que puse yo, te agradezco el apunte y me la apunto, valga la redundancia, para la pr\u00F3xima.",
+      "author": {
+        "id": "721851651324903466",
+        "name": "dealsur",
+        "discriminator": "7061",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "722288884158824488",
+      "type": "Default",
+      "timestamp": "2020-06-16T03:18:09.462+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "S\u00ED, tenedores lo apunt\u00E9 porque es una palabra poco usada y no habr\u00EDa problema con poseedores, como bien usaste abajo",
+      "author": {
+        "id": "403979046079430657",
+        "name": "jandelah",
+        "discriminator": "9935",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403979046079430657/3361d003335a6a105fe044088733205a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "722289246052024373",
+      "type": "Default",
+      "timestamp": "2020-06-16T03:19:35.744+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Si traduces m\u00E1s, al igual que yo, compartimos aqu\u00ED para comentarnos y mejorar las traducciones :D",
+      "author": {
+        "id": "403979046079430657",
+        "name": "jandelah",
+        "discriminator": "9935",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403979046079430657/3361d003335a6a105fe044088733205a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "722289737838231572",
+      "type": "Default",
+      "timestamp": "2020-06-16T03:21:32.995+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tambi\u00E9n faltar\u00EDa revisar el resto de ese documento y el otro",
+      "author": {
+        "id": "403979046079430657",
+        "name": "jandelah",
+        "discriminator": "9935",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403979046079430657/3361d003335a6a105fe044088733205a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "722448080762568724",
+      "type": "Default",
+      "timestamp": "2020-06-16T13:50:44.89+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Buena idea. Al final el documento que traduje tiene pinta de que no va a valer para mucho ya que las traducciones hay que hacerlas en la web seg\u00FAn lo que tengan all\u00ED disponible  pero igualmente me apunto la idea, al fin y al cabo, cuatro ojos traducen mejor que dos \uD83D\uDE04",
+      "author": {
+        "id": "721851651324903466",
+        "name": "dealsur",
+        "discriminator": "7061",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "723247385727205404",
+      "type": "Default",
+      "timestamp": "2020-06-18T18:46:54.044+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola todos, yo traduci el gu\u00EDa de @benlongstaff para crear un Nodo de ECDSA en el testnet",
+      "author": {
+        "id": "405778375697760257",
+        "name": "ricardo",
+        "discriminator": "6102",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405778375697760257/97499ccb49070b1ab68b52f2ace78615.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "723247396942774444",
+      "type": "Default",
+      "timestamp": "2020-06-18T18:46:56.718+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@rcasilimas/una-gu%C3%ADa-para-principiantes-para-crear-un-nodo-de-ecdsa-para-keep-network-usando-digitalocean-76dc4d4018c0",
+      "author": {
+        "id": "405778375697760257",
+        "name": "ricardo",
+        "discriminator": "6102",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405778375697760257/97499ccb49070b1ab68b52f2ace78615.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Una gu\u00EDa para principiantes para crear un nodo de ECDSA para Keep N...",
+          "url": "https://medium.com/@rcasilimas/una-gu%C3%ADa-para-principiantes-para-crear-un-nodo-de-ecdsa-para-keep-network-usando-digitalocean-76dc4d4018c0",
+          "timestamp": null,
+          "description": "C",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*aaU51RujwDMgE41K_7ChKA.jpeg",
+            "width": 1200,
+            "height": 799
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "723247532813189191",
+      "type": "Default",
+      "timestamp": "2020-06-18T18:47:29.112+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Si lo pueden probarlo y darme su opini\u00F3n",
+      "author": {
+        "id": "405778375697760257",
+        "name": "ricardo",
+        "discriminator": "6102",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405778375697760257/97499ccb49070b1ab68b52f2ace78615.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "723247644797042759",
+      "type": "Default",
+      "timestamp": "2020-06-18T18:47:55.811+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Esto es como yo hice mi nodo",
+      "author": {
+        "id": "405778375697760257",
+        "name": "ricardo",
+        "discriminator": "6102",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405778375697760257/97499ccb49070b1ab68b52f2ace78615.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "723325392043245578",
+      "type": "Default",
+      "timestamp": "2020-06-18T23:56:52.199+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola :D A probarlo ! Muchas gracias",
+      "author": {
+        "id": "403979046079430657",
+        "name": "jandelah",
+        "discriminator": "9935",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403979046079430657/3361d003335a6a105fe044088733205a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "723384168096071741",
+      "type": "Default",
+      "timestamp": "2020-06-19T03:50:25.502+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Gracias",
+      "author": {
+        "id": "405778375697760257",
+        "name": "ricardo",
+        "discriminator": "6102",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405778375697760257/97499ccb49070b1ab68b52f2ace78615.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "723384208097280051",
+      "type": "Default",
+      "timestamp": "2020-06-19T03:50:35.039+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Si necesits ayuda, me puedes preguntar",
+      "author": {
+        "id": "405778375697760257",
+        "name": "ricardo",
+        "discriminator": "6102",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405778375697760257/97499ccb49070b1ab68b52f2ace78615.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "726891145988145193",
+      "type": "Default",
+      "timestamp": "2020-06-28T20:05:54.188+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola, he traducido las p\u00E1ginas principales, recursos y el encabezado, ya se ha revisado y corregido el trabajo con un colega pero estoy atento a cualquier recomendaci\u00F3n o sugerencia!",
+      "author": {
+        "id": "403979046079430657",
+        "name": "jandelah",
+        "discriminator": "9935",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403979046079430657/3361d003335a6a105fe044088733205a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "728978069209088000",
+      "type": "Default",
+      "timestamp": "2020-07-04T14:18:35.457+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola, los nodos hay que hacerlos si o si entiendo individualmente cada persona no? No es algo que se comparta, que cree uno y sea comunitario?",
+      "author": {
+        "id": "239100738855370752",
+        "name": "david_69_tgn",
+        "discriminator": "2075",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "728991076366549084",
+      "type": "Default",
+      "timestamp": "2020-07-04T15:10:16.605+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola. Si, hay que hacerlo individualmente. No es algo que se comparta",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729250043474870334",
+      "type": "Default",
+      "timestamp": "2020-07-05T08:19:19.175+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Viva Espa\u00F1a \uD83D\uDE04",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729250126715158618",
+      "type": "Default",
+      "timestamp": "2020-07-05T08:19:39.021+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "La echo de menos",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729344095579013151",
+      "type": "Default",
+      "timestamp": "2020-07-05T14:33:02.944+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Para el stakdroo con eth, hay que esperar al 8 de julio verdad? es cierto que dicen que 1eth seria suficiente?",
+      "author": {
+        "id": "239100738855370752",
+        "name": "david_69_tgn",
+        "discriminator": "2075",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729365022383538256",
+      "type": "Default",
+      "timestamp": "2020-07-05T15:56:12.283+00:00",
+      "timestampEdited": "2020-07-05T15:57:03.401+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u003E Para el stakdroo con eth, hay que esperar al 8 de julio verdad? es cierto que dicen que 1eth seria suficiente?\n@david_69_tgn  verdad. Pero no soy seguro para el 1eth, porque la quantidad de tbtc va a ser muy pequena para commenzar. Entonces es possible que vas a necessitar m\u00E1s.",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729379554690596966",
+      "type": "Default",
+      "timestamp": "2020-07-05T16:53:57.055+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "han dicho que no hay minimum",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729379611309375488",
+      "type": "Default",
+      "timestamp": "2020-07-05T16:54:10.554+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pero a ver con lo de la quantidad de tbtc",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729379654149996644",
+      "type": "Default",
+      "timestamp": "2020-07-05T16:54:20.768+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no entendi hablar sobre eso",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729407328973226054",
+      "type": "Default",
+      "timestamp": "2020-07-05T18:44:18.96+00:00",
+      "timestampEdited": "2020-07-05T18:44:50.855+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "si, pero es que con 10tbtc al principio, es possible que con solo 1 eth las \nlas posibilidades de ganar keep ser\u00E1n bajas",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729407819413061692",
+      "type": "Default",
+      "timestamp": "2020-07-05T18:46:15.89+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "si hay 10000 ETH para cada BTC, eso significa que la gran majoridad de los ETH no van a ganar nada. Vamos a ver",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729442726218694656",
+      "type": "Default",
+      "timestamp": "2020-07-05T21:04:58.321+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No me ha quedado muy claro lo de tbtc como funciona.. Entiendo que se necesitaria una cantidad decente de eth para una recompensa medio decente...",
+      "author": {
+        "id": "239100738855370752",
+        "name": "david_69_tgn",
+        "discriminator": "2075",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729444522974642187",
+      "type": "Default",
+      "timestamp": "2020-07-05T21:12:06.701+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "realmente eso no sabemos por el momento. vamos a tener mas informacion el 8 de julio \uD83E\uDDD0",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729595087532851270",
+      "type": "Default",
+      "timestamp": "2020-07-06T07:10:24.089+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola, alguien podria hacer un resumend sobre lo que es y como funciona tbtc?",
+      "author": {
+        "id": "239100738855370752",
+        "name": "david_69_tgn",
+        "discriminator": "2075",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729615883848384593",
+      "type": "Default",
+      "timestamp": "2020-07-06T08:33:02.317+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Si no existe yo podr\u00EDa",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729654900618821704",
+      "type": "Default",
+      "timestamp": "2020-07-06T11:08:04.64+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "he contratado server de ocean, pero no soy capaz, algun paso algo mal",
+      "author": {
+        "id": "239100738855370752",
+        "name": "david_69_tgn",
+        "discriminator": "2075",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729668186978517034",
+      "type": "Default",
+      "timestamp": "2020-07-06T12:00:52.355+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "alguien sabe porque me sale este error del docker en el ultimo paso? Unable to find image \u0027cat:latest\u0027 locally\ndocker: Error response from daemon: pull access denied for cat, repository does not exist or may require \u0027docker login\u0027: denied: requested access to the resource is denied.\nSee \u0027docker run --help\u0027.",
+      "author": {
+        "id": "239100738855370752",
+        "name": "david_69_tgn",
+        "discriminator": "2075",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729698571947081799",
+      "type": "Default",
+      "timestamp": "2020-07-06T14:01:36.696+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No lo s\u00E9 de verdad, pero puedo preguntar en ingles si quieres el en canal general",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729704035787079711",
+      "type": "Default",
+      "timestamp": "2020-07-06T14:23:19.377+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u003E No lo s\u00E9 de verdad, pero puedo preguntar en ingles si quieres el en canal general\n@samohT\uD83D\uDE80 seria de agradecer. Es nornal que la pagina de keep beacon para autorizar los contratos no carge?",
+      "author": {
+        "id": "239100738855370752",
+        "name": "david_69_tgn",
+        "discriminator": "2075",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729705303901470781",
+      "type": "Default",
+      "timestamp": "2020-07-06T14:28:21.719+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hay que esperar",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729705317461524480",
+      "type": "Default",
+      "timestamp": "2020-07-06T14:28:24.952+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "2 min",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729961053781491752",
+      "type": "Default",
+      "timestamp": "2020-07-07T07:24:37.242+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "una pregunta",
+      "author": {
+        "id": "239100738855370752",
+        "name": "david_69_tgn",
+        "discriminator": "2075",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729961116192473179",
+      "type": "Default",
+      "timestamp": "2020-07-07T07:24:52.122+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "en este parametro. export SERVER_IP=$(curl ifconfig.me),.... donde pongo la IP de mi servidor? en el parentesis?",
+      "author": {
+        "id": "239100738855370752",
+        "name": "david_69_tgn",
+        "discriminator": "2075",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729970005239660575",
+      "type": "Default",
+      "timestamp": "2020-07-07T08:00:11.436+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No la pongas",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729970015377424435",
+      "type": "Default",
+      "timestamp": "2020-07-07T08:00:13.853+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@david_69_tgn",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "729970061934329936",
+      "type": "Default",
+      "timestamp": "2020-07-07T08:00:24.953+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Se pone autom\u00E1ticamente",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730754765293879356",
+      "type": "Default",
+      "timestamp": "2020-07-09T11:58:32.813+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "alguein sabe que tengo que hacer despues de apostar en la testnet de tbtc",
+      "author": {
+        "id": "239100738855370752",
+        "name": "david_69_tgn",
+        "discriminator": "2075",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "730754833006723132",
+      "type": "Default",
+      "timestamp": "2020-07-09T11:58:48.957+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ahora me sale la billetera TDT en metamask, pero me sale a 0, cual es el siguiente paso?",
+      "author": {
+        "id": "239100738855370752",
+        "name": "david_69_tgn",
+        "discriminator": "2075",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731105837942308886",
+      "type": "Default",
+      "timestamp": "2020-07-10T11:13:35.055+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Da muchos errores @david_69_tgn Yo volver\u00EDa a probar m\u00E1s tarde cuando el equipo anuncie que tbtc en la testnet ya funciona bien",
+      "author": {
+        "id": "413241925051875330",
+        "name": "bonsfi | LowFeeValidation.com",
+        "discriminator": "5752",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/413241925051875330/4399581b6cba2998bc6fd8689aca438d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731561513315205303",
+      "type": "Default",
+      "timestamp": "2020-07-11T17:24:16.53+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@ThomasamohT/c%C3%B3mo-jugar-para-keeps-7a70ce1805e",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "C\u00F3mo Jugar para Keeps",
+          "url": "https://medium.com/@ThomasamohT/c%C3%B3mo-jugar-para-keeps-7a70ce1805e",
+          "timestamp": null,
+          "description": "Apprender a stackear y ga\u00F1ar KEEP gracias a sus contribuciones",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/0*yIuTl0tu2EVDmkbP.png",
+            "width": 1200,
+            "height": 354
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64c.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "731561583112880148",
+      "type": "Default",
+      "timestamp": "2020-07-11T17:24:33.171+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "comentarios bienvenidos",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731590458005913650",
+      "type": "Default",
+      "timestamp": "2020-07-11T19:19:17.482+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@ricardo Proxima vez que usted traduce algo, porfavor inscriba el enlace en el documento pinned de este canal.",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731590616554668114",
+      "type": "Default",
+      "timestamp": "2020-07-11T19:19:55.283+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lo hice por esta vez",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731590624024985653",
+      "type": "Default",
+      "timestamp": "2020-07-11T19:19:57.064+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE09",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731608162100314177",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:29:38.467+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No hay nada en este medium @samohT\uD83D\uDE80",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731608435790970901",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:30:43.72+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hablo del medium de ricardo",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731608601701122108",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:31:23.276+00:00",
+      "timestampEdited": "2020-07-11T20:31:32.538+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no puedes ver los que yo escribi ?",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731610176439976008",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:37:38.723+00:00",
+      "timestampEdited": "2020-07-11T20:51:46.887+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "es normal que solo hay 3-4 frases ?",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731610438185254933",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:38:41.128+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "si, pero espera un segundito",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731611469778780192",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:42:47.079+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@state",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731611481392676975",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:42:49.848+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a ver ahora ?",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731612083308724264",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:45:13.356+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ya esta bi\u00E9n",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731612189634330626",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:45:38.706+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Donde apprendiste espanol tan bi\u00E9n ?",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731612442358185995",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:46:38.96+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hice un erasmus alla durante 5 meses",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731612524553961592",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:46:58.557+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "antes del covid, he tenido suerte",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731612626253119669",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:47:22.804+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "y tu ? Veo que hablas frances tb \uD83D\uDE04",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731612733539352696",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:47:48.383+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Aprend\u00EE el valenciano tb \uD83D\uDE02",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731612947591463006",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:48:39.417+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u0022No pasa res\u0022",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731612993250656280",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:48:50.303+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bon d\u00EDa",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731613133545668701",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:49:23.752+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Mi espanol es de nivel intermedio al mejor haha \uD83D\uDE02",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731613361665605743",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:50:18.14+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "la majoridad sobre internet",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731613463503437904",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:50:42.42+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "peliculas etc",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731613845810053241",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:52:13.569+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ya fuiste a espa\u00F1a?",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731613895072153727",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:52:25.314+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "si por dos semanas",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731614231526506496",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:53:45.531+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pero no soy franc\u00E9s, espa\u00F1a no es cerca de mi \uD83D\uDE04",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731614394911555605",
+      "type": "Default",
+      "timestamp": "2020-07-11T20:54:24.485+00:00",
+      "timestampEdited": "2020-07-11T20:54:55.871+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "soy quebequense",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731616263792623727",
+      "type": "Default",
+      "timestamp": "2020-07-11T21:01:50.061+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tabernac",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "731617402177192059",
+      "type": "Default",
+      "timestamp": "2020-07-11T21:06:21.473+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tabarnack , pero si",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "732041272721801256",
+      "type": "Default",
+      "timestamp": "2020-07-13T01:10:40.086+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@samohT\uD83D\uDE80 gracias amigo",
+      "author": {
+        "id": "405778375697760257",
+        "name": "ricardo",
+        "discriminator": "6102",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405778375697760257/97499ccb49070b1ab68b52f2ace78615.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "732041305596624966",
+      "type": "Default",
+      "timestamp": "2020-07-13T01:10:47.924+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No tengo idea como hacer eso",
+      "author": {
+        "id": "405778375697760257",
+        "name": "ricardo",
+        "discriminator": "6102",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405778375697760257/97499ccb49070b1ab68b52f2ace78615.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "732256339379617863",
+      "type": "Default",
+      "timestamp": "2020-07-13T15:25:15.973+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@ricardo All\u00E1 https://docs.google.com/spreadsheets/d/1ieuBy28G-ZKPLV-7SUuWN9Eu56U-xw4Z1t2JrpEClfc/edit#gid=758842642",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "keep_translations",
+          "url": "https://docs.google.com/spreadsheets/d/1ieuBy28G-ZKPLV-7SUuWN9Eu56U-xw4Z1t2JrpEClfc/edit",
+          "timestamp": null,
+          "description": "keep_translations\n\nDocument / Source\nhttps://github.com/keep-network/tbtc-website/tree/master/src/pages/about\nh...",
+          "thumbnail": {
+            "url": "https://lh4.googleusercontent.com/mHWAt0DX8Tef_bzI8b_rAtnrQI7Q5tsci9fKUSvSzGgI6MIoH2QRgnOgoKHAjiQ8nCcopA8WBw=w1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "732256400373317662",
+      "type": "Default",
+      "timestamp": "2020-07-13T15:25:30.515+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ponte dentro de la hoja Espa\u00F1ol",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "732256507558625462",
+      "type": "Default",
+      "timestamp": "2020-07-13T15:25:56.07+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah",
+      "author": {
+        "id": "405778375697760257",
+        "name": "ricardo",
+        "discriminator": "6102",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405778375697760257/97499ccb49070b1ab68b52f2ace78615.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "732256532703739914",
+      "type": "Default",
+      "timestamp": "2020-07-13T15:26:02.065+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Muchas gracias \uD83D\uDE42",
+      "author": {
+        "id": "405778375697760257",
+        "name": "ricardo",
+        "discriminator": "6102",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405778375697760257/97499ccb49070b1ab68b52f2ace78615.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "732528436530118706",
+      "type": "Default",
+      "timestamp": "2020-07-14T09:26:28.989+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "alguien podr\u00EDa ayudarme con el nodo de random becon y ECDSA? Me da errores...",
+      "author": {
+        "id": "239100738855370752",
+        "name": "david_69_tgn",
+        "discriminator": "2075",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "732989080169611276",
+      "type": "Default",
+      "timestamp": "2020-07-15T15:56:54.991+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Estimados, estoy trabajando en la traducci\u00F3n de un documento muy completo del proyecto. Quiz\u00E1s le quieren hecha una mirada ?https://gist.github.com/Estebank97/e9a5246c264a69cc30b19ab7d0ac7e44",
+      "author": {
+        "id": "725111730824413379",
+        "name": "EstebanK",
+        "discriminator": "8544",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/725111730824413379/a0e68e82c929411e82d5956baf5ed77f.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Spanish translation of https://keep-network.gitbook.io/staking-docu...",
+          "url": "https://gist.github.com/Estebank97/e9a5246c264a69cc30b19ab7d0ac7e44",
+          "timestamp": null,
+          "description": "Spanish translation of https://keep-network.gitbook.io/staking-documentation - Staking-Documentation-sp.md",
+          "thumbnail": {
+            "url": "https://github.githubassets.com/images/modules/gists/gist-og-image.png",
+            "width": 1280,
+            "height": 640
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "733421751886807061",
+      "type": "Default",
+      "timestamp": "2020-07-16T20:36:11.967+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@ThomasamohT/y-los-ganadores-del-keep-privacy-prize-challenge-son-e247dffd5b70?sk=b0a9a5c5a3444093b4e5dd8b20a9f7a8",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Y los ganadores del Keep Privacy Prize Challenge son\u2026",
+          "url": "https://medium.com/@ThomasamohT/y-los-ganadores-del-keep-privacy-prize-challenge-son-e247dffd5b70?sk=b0a9a5c5a3444093b4e5dd8b20a9f7a8",
+          "timestamp": null,
+          "description": "Un ganador y dos subcampeones ganaron en total de 90,000 KEEP por lo que han propuesto.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/0*Uw7w5aKsv131wVHp.jpeg",
+            "width": 1200,
+            "height": 276
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64c.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDFC3\u200D\u2642\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f3c3-200d-2642.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCA8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4a8.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "734028132767760497",
+      "type": "Default",
+      "timestamp": "2020-07-18T12:45:44.435+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@bonsfi/como-reclamar-tbtc-desde-ropsten-a-tu-billetera-de-btc-testnet-d8a28643ef43",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Como reclamar tBTC desde Ropsten a tu billetera de BTC testnet",
+          "url": "https://medium.com/@bonsfi/como-reclamar-tbtc-desde-ropsten-a-tu-billetera-de-btc-testnet-d8a28643ef43",
+          "timestamp": null,
+          "description": "Usar BTC en Ethereum es una gran experiencia ya que puedes apalancar tus Bitcoins gracias a las finanzas descentralizadas.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/0*EXWvqkuIxGpqsXlH.png",
+            "width": 1200,
+            "height": 1187
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "734028250220593164",
+      "type": "Default",
+      "timestamp": "2020-07-18T12:46:12.438+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hay una errore @bonsfi | LowFeeValidation.com \u0022Y desde ah\u00ED ves a tus ERC20 y confirma que tengas tu bBTC:\u0022",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "734028350095491104",
+      "type": "Default",
+      "timestamp": "2020-07-18T12:46:36.25+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "es tBTC \uD83D\uDE09",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "734046739761463397",
+      "type": "Default",
+      "timestamp": "2020-07-18T13:59:40.688+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@bonsfi | LowFeeValidation.com No olvides poner todo en el Excel porfavor (https://docs.google.com/spreadsheets/d/1ieuBy28G-ZKPLV-7SUuWN9Eu56U-xw4Z1t2JrpEClfc/edit?pli=1#gid=1517825669)",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "keep_translations",
+          "url": "https://docs.google.com/spreadsheets/d/1ieuBy28G-ZKPLV-7SUuWN9Eu56U-xw4Z1t2JrpEClfc/edit?pli=1",
+          "timestamp": null,
+          "description": "keep_translations\n\nDocument / Source\nhttps://github.com/keep-network/tbtc-website/tree/master/src/pages/about\nh...",
+          "thumbnail": {
+            "url": "https://lh4.googleusercontent.com/mHWAt0DX8Tef_bzI8b_rAtnrQI7Q5tsci9fKUSvSzGgI6MIoH2QRgnOgoKHAjiQ8nCcopA8WBw=w1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "735003823814475816",
+      "type": "Default",
+      "timestamp": "2020-07-21T05:22:47.308+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@EstebanK Tio he leido https://gist.github.com/Estebank97/e9a5246c264a69cc30b19ab7d0ac7e44",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Staking en Keep - Spanish translation of https://keep-network.gitbo...",
+          "url": "https://gist.github.com/Estebank97/e9a5246c264a69cc30b19ab7d0ac7e44",
+          "timestamp": null,
+          "description": "Staking en Keep - Spanish translation of https://keep-network.gitbook.io/staking-documentation - Staking-Documentation-sp.md",
+          "thumbnail": {
+            "url": "https://github.githubassets.com/images/modules/gists/gist-og-image.png",
+            "width": 1280,
+            "height": 640
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "735004766312333355",
+      "type": "Default",
+      "timestamp": "2020-07-21T05:26:32.017+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Que dificil comprender lo que dice este documento, tanto en espa\u00F1ol como en ingles \uD83D\uDE02",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "735005041018142741",
+      "type": "Default",
+      "timestamp": "2020-07-21T05:27:37.512+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yo comprendo por que estoy en el proyecto desde 1 mes, pero alguien que viene hoy nunca comprendera :/",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "735216869853888603",
+      "type": "Default",
+      "timestamp": "2020-07-21T19:29:21.442+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No es f\u00E1cil, se debe digerir de a poco, ya que son demasiados conceptos nuevos para la mayor\u00EDa.",
+      "author": {
+        "id": "725111730824413379",
+        "name": "EstebanK",
+        "discriminator": "8544",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/725111730824413379/a0e68e82c929411e82d5956baf5ed77f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738518085476155412",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:07:12.58+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Dankai buenas noches",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738518616219058337",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:09:19.119+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Gracias samot",
+      "author": {
+        "id": "461606106268172289",
+        "name": "Dankai",
+        "discriminator": "6257",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/461606106268172289/7cf25976c12815095bd97cb33d00b991.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738518755944038471",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:09:52.432+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tienes problema con el tbtc?",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738518915591700581",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:10:30.495+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bueno estoy bloqueado al paso 1",
+      "author": {
+        "id": "461606106268172289",
+        "name": "Dankai",
+        "discriminator": "6257",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/461606106268172289/7cf25976c12815095bd97cb33d00b991.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738519074891497562",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:11:08.475+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No puedo depositar lo del tbtc",
+      "author": {
+        "id": "461606106268172289",
+        "name": "Dankai",
+        "discriminator": "6257",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/461606106268172289/7cf25976c12815095bd97cb33d00b991.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738519654187794552",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:13:26.59+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "para empezar, hay que saber que el tbtc es un token que funcciona solamente por Ethereum (que es la blockchain del ETH, pero permite tener otras crypto)",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738519830298230945",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:14:08.578+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "y lo que llamaste testnet btc es el BTC pero por una red de proba",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738519977551724614",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:14:43.686+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cuidado con eso",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738520062092115998",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:15:03.842+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Val",
+      "author": {
+        "id": "461606106268172289",
+        "name": "Dankai",
+        "discriminator": "6257",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/461606106268172289/7cf25976c12815095bd97cb33d00b991.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738520101564842044",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:15:13.253+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Esta claro",
+      "author": {
+        "id": "461606106268172289",
+        "name": "Dankai",
+        "discriminator": "6257",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/461606106268172289/7cf25976c12815095bd97cb33d00b991.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738520682576478269",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:17:31.777+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "va a ser dificil ayudarte pq no tenemos ningun tuto en espa\u00F1ol para explicartelo",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738521164254806106",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:19:26.618+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@bonsfi | LowFeeValidation.com hizo un articulo creo",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738521460724990072",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:20:37.302+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@bonsfi/como-reclamar-tbtc-desde-ropsten-a-tu-billetera-de-btc-testnet-d8a28643ef43?sk=add37ba90f02d5bd9eff9eb7d779ec7f",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Como reclamar tBTC desde Ropsten a tu billetera de BTC testnet",
+          "url": "https://medium.com/@bonsfi/como-reclamar-tbtc-desde-ropsten-a-tu-billetera-de-btc-testnet-d8a28643ef43?sk=add37ba90f02d5bd9eff9eb7d779ec7f",
+          "timestamp": null,
+          "description": "Usar BTC en Ethereum es una gran experiencia ya que puedes apalancar tus Bitcoins gracias a las finanzas descentralizadas.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/0*EXWvqkuIxGpqsXlH.png",
+            "width": 1200,
+            "height": 1187
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "738521514139320370",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:20:50.037+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "te ayudara",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738521675779538995",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:21:28.575+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Dankai",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738521835632721940",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:22:06.687+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A ver",
+      "author": {
+        "id": "461606106268172289",
+        "name": "Dankai",
+        "discriminator": "6257",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/461606106268172289/7cf25976c12815095bd97cb33d00b991.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738521995997610184",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:22:44.921+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tb hay que saber que este puente entre BTC y ETH es una version no perfecta y que los problemas son normales",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738522594084519948",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:25:07.516+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Creo que es eso",
+      "author": {
+        "id": "461606106268172289",
+        "name": "Dankai",
+        "discriminator": "6257",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/461606106268172289/7cf25976c12815095bd97cb33d00b991.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738523069668261989",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:27:00.904+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bueno te agradezco, intentare ma\u00F1ana...",
+      "author": {
+        "id": "461606106268172289",
+        "name": "Dankai",
+        "discriminator": "6257",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/461606106268172289/7cf25976c12815095bd97cb33d00b991.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738523117747699773",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:27:12.367+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u00BFEres espa\u00F1ol?",
+      "author": {
+        "id": "461606106268172289",
+        "name": "Dankai",
+        "discriminator": "6257",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/461606106268172289/7cf25976c12815095bd97cb33d00b991.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738523151109062725",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:27:20.321+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@samohT\uD83D\uDE80",
+      "author": {
+        "id": "461606106268172289",
+        "name": "Dankai",
+        "discriminator": "6257",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/461606106268172289/7cf25976c12815095bd97cb33d00b991.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738523699099205645",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:29:30.972+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No pero fui a espa\u00F1a a veces",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738523807630884974",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:29:56.848+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Y me gustan los espa\u00F1oles \uD83D\uDE02",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738524010433872003",
+      "type": "Default",
+      "timestamp": "2020-07-30T22:30:45.2+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Vale vale",
+      "author": {
+        "id": "461606106268172289",
+        "name": "Dankai",
+        "discriminator": "6257",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/461606106268172289/7cf25976c12815095bd97cb33d00b991.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738715836864266300",
+      "type": "Default",
+      "timestamp": "2020-07-31T11:13:00.185+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola",
+      "author": {
+        "id": "413241925051875330",
+        "name": "bonsfi | LowFeeValidation.com",
+        "discriminator": "5752",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/413241925051875330/4399581b6cba2998bc6fd8689aca438d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "738715938823864372",
+      "type": "Default",
+      "timestamp": "2020-07-31T11:13:24.494+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Si tienes dudas te ayudo. M\u00E1ndame un dm",
+      "author": {
+        "id": "413241925051875330",
+        "name": "bonsfi | LowFeeValidation.com",
+        "discriminator": "5752",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/413241925051875330/4399581b6cba2998bc6fd8689aca438d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "739132623783329834",
+      "type": "Default",
+      "timestamp": "2020-08-01T14:49:09.93+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@bonsfi | LowFeeValidation.com @samohT\uD83D\uDE80 Hola ! Deberiamos hacer una guia completa con un resumen de todos los articulos en espa\u00F1ol.... y poner un pinned message, para que se les haga facil a todos los newbies en nuestro idioma, que opinan ?",
+      "author": {
+        "id": "725111730824413379",
+        "name": "EstebanK",
+        "discriminator": "8544",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/725111730824413379/a0e68e82c929411e82d5956baf5ed77f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "739412363543052330",
+      "type": "Default",
+      "timestamp": "2020-08-02T09:20:45.086+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "buena idea",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "739412907250548746",
+      "type": "Default",
+      "timestamp": "2020-08-02T09:22:54.716+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "todos los enlaces estan en https://docs.google.com/spreadsheets/d/1ieuBy28G-ZKPLV-7SUuWN9Eu56U-xw4Z1t2JrpEClfc/edit?pli=1#gid=1517825669",
+      "author": {
+        "id": "490238658067038218",
+        "name": "samohT\uD83D\uDE80",
+        "discriminator": "4161",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490238658067038218/16ca60bd1454746e20c1cdbe15c965c7.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "keep_translations",
+          "url": "https://docs.google.com/spreadsheets/d/1ieuBy28G-ZKPLV-7SUuWN9Eu56U-xw4Z1t2JrpEClfc/edit?pli=1",
+          "timestamp": null,
+          "description": "keep_translations\n\nDocument / Source\nhttps://github.com/keep-network/tbtc-website/tree/master/src/pages/about\nh...",
+          "thumbnail": {
+            "url": "https://lh4.googleusercontent.com/mHWAt0DX8Tef_bzI8b_rAtnrQI7Q5tsci9fKUSvSzGgI6MIoH2QRgnOgoKHAjiQ8nCcopA8WBw=w1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "740082066850578452",
+      "type": "Default",
+      "timestamp": "2020-08-04T05:41:54.797+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Buenas",
+      "author": {
+        "id": "439779084839682048",
+        "name": "elalbaricoque",
+        "discriminator": "7643",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/439779084839682048/4896f7be011c0e2b04085e0652758bca.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "740084809300312174",
+      "type": "Default",
+      "timestamp": "2020-08-04T05:52:48.648+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Buenas!",
+      "author": {
+        "id": "403979046079430657",
+        "name": "jandelah",
+        "discriminator": "9935",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403979046079430657/3361d003335a6a105fe044088733205a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "740251088434757693",
+      "type": "Default",
+      "timestamp": "2020-08-04T16:53:32.683+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Buenas!",
+      "author": {
+        "id": "311272920989040641",
+        "name": "state",
+        "discriminator": "5254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/311272920989040641/4f953a24340a491f4cb1a0693bd5cd79.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "740324265458663495",
+      "type": "Default",
+      "timestamp": "2020-08-04T21:44:19.445+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola :peace:",
+      "author": {
+        "id": "725111730824413379",
+        "name": "EstebanK",
+        "discriminator": "8544",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/725111730824413379/a0e68e82c929411e82d5956baf5ed77f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "740549114034651288",
+      "type": "Default",
+      "timestamp": "2020-08-05T12:37:47.523+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola!",
+      "author": {
+        "id": "413241925051875330",
+        "name": "bonsfi | LowFeeValidation.com",
+        "discriminator": "5752",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/413241925051875330/4399581b6cba2998bc6fd8689aca438d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "740549289389981777",
+      "type": "Default",
+      "timestamp": "2020-08-05T12:38:29.331+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He creado un tutorial para los que quieran confirmar su direcci\u00F3n de ETH Mainnet: Hello, for the spanish speakers I just created a tutorial on how to sign a message with Metamask:\nhttps://medium.com/@bonsfi/como-firmar-un-mensaje-usando-tu-direcci%C3%B3n-de-ethereum-3291bce8458a?sk=989dbec8495926fe3060b18af081d041",
+      "author": {
+        "id": "413241925051875330",
+        "name": "bonsfi | LowFeeValidation.com",
+        "discriminator": "5752",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/413241925051875330/4399581b6cba2998bc6fd8689aca438d.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Como firmar un mensaje usando tu direcci\u00F3n de Ethereum",
+          "url": "https://medium.com/@bonsfi/como-firmar-un-mensaje-usando-tu-direcci%C3%B3n-de-ethereum-3291bce8458a?sk=989dbec8495926fe3060b18af081d041",
+          "timestamp": null,
+          "description": "Frimar un mensaje con tu direcci\u00F3n de Ethereum es muy f\u00E1cil. Solo tines que tener una cuenta de metamask con tu direcci\u00F3n de Ethereum y\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*jtDRpv4CqfHJNQ1g8Pr7gg.png",
+            "width": 1200,
+            "height": 740
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "740549338249297941",
+      "type": "Default",
+      "timestamp": "2020-08-05T12:38:40.98+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Esto os ayudar\u00E1 para la tBTC challenge",
+      "author": {
+        "id": "413241925051875330",
+        "name": "bonsfi | LowFeeValidation.com",
+        "discriminator": "5752",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/413241925051875330/4399581b6cba2998bc6fd8689aca438d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "740592696355323965",
+      "type": "Default",
+      "timestamp": "2020-08-05T15:30:58.358+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Guay",
+      "author": {
+        "id": "461606106268172289",
+        "name": "Dankai",
+        "discriminator": "6257",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/461606106268172289/7cf25976c12815095bd97cb33d00b991.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "740991045659131945",
+      "type": "Default",
+      "timestamp": "2020-08-06T17:53:52.233+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "es normal que no pase de hay?",
+      "author": {
+        "id": "239100738855370752",
+        "name": "david_69_tgn",
+        "discriminator": "2075",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "740991043343876196",
+          "url": "https://cdn.discordapp.com/attachments/697367877627674696/740991043343876196/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 96179
+        }
+      ],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "741196154435272855",
+      "type": "Default",
+      "timestamp": "2020-08-07T07:28:53.976+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "S\u00ED y no \uD83D\uDE02",
+      "author": {
+        "id": "461606106268172289",
+        "name": "Dankai",
+        "discriminator": "6257",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/461606106268172289/7cf25976c12815095bd97cb33d00b991.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "741196325076336651",
+      "type": "Default",
+      "timestamp": "2020-08-07T07:29:34.66+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pq es una versi\u00F3n alpha",
+      "author": {
+        "id": "461606106268172289",
+        "name": "Dankai",
+        "discriminator": "6257",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/461606106268172289/7cf25976c12815095bd97cb33d00b991.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "741239710378229771",
+      "type": "Default",
+      "timestamp": "2020-08-07T10:21:58.522+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pues llevo semanas prbando, ya no se que hacer",
+      "author": {
+        "id": "239100738855370752",
+        "name": "david_69_tgn",
+        "discriminator": "2075",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "741239861503328260",
+      "type": "Default",
+      "timestamp": "2020-08-07T10:22:34.553+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "solo me queda esa, sin eso no sirve de nada firmar no?",
+      "author": {
+        "id": "239100738855370752",
+        "name": "david_69_tgn",
+        "discriminator": "2075",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "742447304430059641",
+      "type": "Default",
+      "timestamp": "2020-08-10T18:20:31.38+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola! Los nodos se han actualizado \uD83D\uDE42 Aqu\u00ED ten\u00E9is una gu\u00EDa para pasarlos a la \u00FAltima versi\u00F3n. Cualquier duda me dec\u00EDs \uD83D\uDE42",
+      "author": {
+        "id": "413241925051875330",
+        "name": "bonsfi | LowFeeValidation.com",
+        "discriminator": "5752",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/413241925051875330/4399581b6cba2998bc6fd8689aca438d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "742447321656328412",
+      "type": "Default",
+      "timestamp": "2020-08-10T18:20:35.487+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@bonsfi/como-actualizar-tus-nodos-de-keep-network-de-forma-f%C3%A1cil-y-r%C3%A1pida-versi%C3%B3n-7-agost-2020-b0b8617e872d?sk=8121e9eb6282e56b98b8776d874cbf67",
+      "author": {
+        "id": "413241925051875330",
+        "name": "bonsfi | LowFeeValidation.com",
+        "discriminator": "5752",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/413241925051875330/4399581b6cba2998bc6fd8689aca438d.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Como actualizar tus nodos de Keep Network de forma f\u00E1cil y r\u00E1pida (...",
+          "url": "https://medium.com/@bonsfi/como-actualizar-tus-nodos-de-keep-network-de-forma-f%C3%A1cil-y-r%C3%A1pida-versi%C3%B3n-7-agost-2020-b0b8617e872d?sk=8121e9eb6282e56b98b8776d874cbf67",
+          "timestamp": null,
+          "description": "Los nodos de Keep Network deben actualizarse en cada nueva versi\u00F3n que va sacando el equipo de Keep. La idea que el proyecto esta en\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/960/1*TbVHuDUE6v38H61gpcy86w.jpeg",
+            "width": 960,
+            "height": 411
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "744146662175277097",
+      "type": "Default",
+      "timestamp": "2020-08-15T10:53:09.839+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=_XgeocRP6bk\u0026feature=youtu.be",
+      "author": {
+        "id": "509747468586582016",
+        "name": "Juan Mar\u00EDa D.",
+        "discriminator": "8092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/509747468586582016/eefafacadabb76220a6af0ae39df0e0a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "C\u00F3mo instalar un nodo ECDSA para stackear ETH en la red Keep",
+          "url": "https://www.youtube.com/watch?v=_XgeocRP6bk",
+          "timestamp": null,
+          "description": "Descargar el codigo.txt:\nhttps://drive.google.com/file/d/1iSX8fT20khKtAAuNZ4SwyAVjC8mBBWCo/view?usp=sharing\nEn su parte config.toml, ver al final de este enlace: \nhttps://github.com/keep-network/keep-ecdsa/blob/master/docs/run-keep-ecdsa.adoc\nY poner los \u00FAltimos \n\u0022Boostrap Pee...",
+          "author": {
+            "name": "Juan Mar\u00EDa Delgada",
+            "url": "https://www.youtube.com/channel/UCIV8FqluKER5sKNcLc7du5w"
+          },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/_XgeocRP6bk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "744146751790907514",
+      "type": "Default",
+      "timestamp": "2020-08-15T10:53:31.205+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He modificado el codigo por el mainnet",
+      "author": {
+        "id": "509747468586582016",
+        "name": "Juan Mar\u00EDa D.",
+        "discriminator": "8092",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/509747468586582016/eefafacadabb76220a6af0ae39df0e0a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "745128785929830411",
+      "type": "Default",
+      "timestamp": "2020-08-18T03:55:46.389+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola amigos! HIce una traducci\u00F3n de la wiki de StateLayer donde recopila la informaci\u00F3n m\u00E1s importante de tbtc y keep. Agregu\u00E9 una lista de todos los recursos a la fecha en espa\u00F1ol\n\na\u00FAn faltan algunas cosas, pero \u00E9chenle un vistazo a ver qu\u00E9 tal \uD83D\uDE04 https://www.keepnetwork-es.info/",
+      "author": {
+        "id": "403979046079430657",
+        "name": "jandelah",
+        "discriminator": "9935",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403979046079430657/3361d003335a6a105fe044088733205a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Inicio | Keep Network ES",
+          "url": "https://www.keepnetwork-es.info/",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "750106801734680619",
+      "type": "Default",
+      "timestamp": "2020-08-31T21:36:37.844+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have translated the article into Spanish\nOriginal:\nhttps://medium.com/@lelka.bo.bo/%D0%BA%D0%B0%D0%BA%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5-%D0%BC%D0%BE%D0%B6%D0%B5%D1%82-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD%D0%B0-%D0%B8-%D1%8D%D1%84%D0%B8%D1%80%D0%B8%D1%83%D0%BC%D0%B0-%D0%B2-tbtc-ca74a7d6f6a\nTranslate:\nhttps://medium.com/@yuliya.bokova.88/qu%C3%A9-desarrollo-puede-obtener-la-conexi%C3%B3n-de-bitcoin-y-ethereum-en-tbtc-934938b0883f",
+      "author": {
+        "id": "733819252389183488",
+        "name": "EvilMur",
+        "discriminator": "9412",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/733819252389183488/ae8fb212a385f6a9562a58f69beaf8fe.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "750227459387162634",
+      "type": "Default",
+      "timestamp": "2020-09-01T05:36:04.87+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Echen un vistazo \uD83D\uDE04 \nhttps://youtu.be/imuu7DaqzDY\nIntroducci\u00F3n a tbtc, Keep Network  y otros bitcoins pegs\nGracias por su like",
+      "author": {
+        "id": "403979046079430657",
+        "name": "jandelah",
+        "discriminator": "9935",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/403979046079430657/3361d003335a6a105fe044088733205a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\u00A1Bitcoin en Ethereum! Sobre tbtc y Keep Network",
+          "url": "https://www.youtube.com/watch?v=imuu7DaqzDY",
+          "timestamp": null,
+          "description": "Por @jandelah\n\n\u00A1Gracias por ver!\ntbtc es la primera aplicaci\u00F3n que funcionar\u00E1 sobre Keep Network, una capa de privacidad para las blockchain. tBTC es un token ERC-20 vinculado 1 a 1 con BTC, totalmente descentralizado y sin intermediarios.\n\nAprende m\u00E1s sobre tbtc y Keep Networ...",
+          "author": {
+            "name": "Uriel Romero",
+            "url": "https://www.youtube.com/channel/UC-0KfXyFhFK6OqJcpUFHp5w"
+          },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/imuu7DaqzDY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "756604238741766294",
+      "type": "Default",
+      "timestamp": "2020-09-18T19:55:07.543+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Translated the article.\n\uD83C\uDDEA\uD83C\uDDF8 Spanish: https://medium.com/@romanosadchyi/lo-que-james-prestwich-est%C3%A1-buscando-en-playing-for-keeps-de-septiembre-77105fc15347",
+      "author": {
+        "id": "401391144786722817",
+        "name": "Vincagame",
+        "discriminator": "6490",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401391144786722817/2ad3d63e495f18958370ac709d2a8984.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Lo que James Prestwich est\u00E1 buscando en \u201CPlaying for Keeps\u201D de sept...",
+          "url": "https://medium.com/@romanosadchyi/lo-que-james-prestwich-est%C3%A1-buscando-en-playing-for-keeps-de-septiembre-77105fc15347",
+          "timestamp": null,
+          "description": "El enfoque incluye mejorar las herramientas y los servicios de Bitcoin, as\u00ED como el proceso de dep\u00F3sito de tBTC.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/700/1*WCoNJ0mX6zE9qKXcN2WOog.png",
+            "width": 700,
+            "height": 350
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "758048690106532051",
+      "type": "Default",
+      "timestamp": "2020-09-22T19:34:51.585+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Translated the article.\n\uD83C\uDDEA\uD83C\uDDF8 Spanish: https://medium.com/@romanosadchyi/tbtc-la-forma-segura-de-usar-bitcoin-en-defi-es-en-directo-en-tbtc-network-6a614216ca1a\nOriginal: https://blog.keep.network/tbtc-the-safe-way-to-use-bitcoin-in-defi-is-live-on-tbtc-network-de2bb8b6eaf7",
+      "author": {
+        "id": "401391144786722817",
+        "name": "Vincagame",
+        "discriminator": "6490",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401391144786722817/2ad3d63e495f18958370ac709d2a8984.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "tBTC, la forma segura de usar Bitcoin en DeFi, es en directo en tbt...",
+          "url": "https://medium.com/@romanosadchyi/tbtc-la-forma-segura-de-usar-bitcoin-en-defi-es-en-directo-en-tbtc-network-6a614216ca1a",
+          "timestamp": null,
+          "description": "Lanzado con medidas de seguridad sin precedentes y listo para ser utilizado en tbtc.network, tBTC es totalmente auditado y de c\u00F3digo\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/freeze/max/1200/1*An_cQWdrvDyAZymGxFwY1g.gif",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        },
+        {
+          "title": "tBTC, the Safe Way To Use Bitcoin in DeFi, Is Live on tbtc.network",
+          "url": "https://blog.keep.network/tbtc-the-safe-way-to-use-bitcoin-in-defi-is-live-on-tbtc-network-de2bb8b6eaf7",
+          "timestamp": null,
+          "description": "Launched with unprecedented security measures in place and ready to be used at tbtc.network, tBTC is fully audited and open-source.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/freeze/max/1200/1*UcDSbm2Qy-xHzs7cjyJ1rg.gif",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "758712336151871548",
+      "type": "Default",
+      "timestamp": "2020-09-24T15:31:57.132+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola Mundo! Cre\u00E9 y actualize nuevos gu\u00EDas para hacer staking de Random Beacon y ECDSA. Si tienen preguntas, me pueden mandar mensaje!\n\n\nhttps://medium.com/@rcasilimas/una-gu%C3%ADa-para-principiantes-para-crear-un-nodo-de-random-beacon-para-keep-network-usando-330346c6d8f0\n\n\nhttps://medium.com/@rcasilimas/una-gu%C3%ADa-para-principiantes-para-crear-un-nodo-de-ecdsa-para-keep-network-usando-digitalocean-76dc4d4018c0",
+      "author": {
+        "id": "405778375697760257",
+        "name": "ricardo",
+        "discriminator": "6102",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405778375697760257/97499ccb49070b1ab68b52f2ace78615.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Una gu\u00EDa para principiantes para crear un nodo de Random Beacon par...",
+          "url": "https://medium.com/@rcasilimas/una-gu%C3%ADa-para-principiantes-para-crear-un-nodo-de-random-beacon-para-keep-network-usando-330346c6d8f0",
+          "timestamp": null,
+          "description": "https://medium.com/@ben_longstaff/a-beginners-quick-start-guide-to-staking-on-the-keep-network-testnet-using-digitalocean-5a74ca60adc3",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*XLXs3Gz1WtwhiCZez9DXZg.jpeg",
+            "width": 1200,
+            "height": 354
+          },
+          "fields": []
+        },
+        {
+          "title": "Una gu\u00EDa para principiantes para crear un nodo de ECDSA para Keep N...",
+          "url": "https://medium.com/@rcasilimas/una-gu%C3%ADa-para-principiantes-para-crear-un-nodo-de-ecdsa-para-keep-network-usando-digitalocean-76dc4d4018c0",
+          "timestamp": null,
+          "description": "C",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*aaU51RujwDMgE41K_7ChKA.jpeg",
+            "width": 1200,
+            "height": 799
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "760896842182426625",
+      "type": "Default",
+      "timestamp": "2020-09-30T16:12:23.956+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hola! Os comparto un post para que pod\u00E1is sacar jugo a vuestros tBTC! C\u00F3mo ganar rewards con el par ETH-BTC de Mooniswap! https://medium.com/@bonsfi/como-recolectar-rewards-usando-tbtc-y-ethereum-en-mooniswap-1c18fab4acc3?sk=c87b3811dd1a7be510fa0ee814e205ee",
+      "author": {
+        "id": "413241925051875330",
+        "name": "bonsfi | LowFeeValidation.com",
+        "discriminator": "5752",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/413241925051875330/4399581b6cba2998bc6fd8689aca438d.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Como recolectar rewards usando tBTC y Ethereum en Mooniswap",
+          "url": "https://medium.com/@bonsfi/como-recolectar-rewards-usando-tbtc-y-ethereum-en-mooniswap-1c18fab4acc3?sk=c87b3811dd1a7be510fa0ee814e205ee",
+          "timestamp": null,
+          "description": "Si algo esta de moda \u00FAltimamente en Defi es convertirse en granjero y ganar rewards por todo los sitios en que se pueda.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/0*YJtrwap8u9oQPOxe.png",
+            "width": 1200,
+            "height": 874
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64c.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "761234412087672853",
+      "type": "Default",
+      "timestamp": "2020-10-01T14:33:46.893+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83C\uDDEA\uD83C\uDDF8 Traducci\u00F3n del art\u00EDculo al espa\u00F1ol: https://medium.com/@romanosadchyi/tbtc-permite-el-acceso-seguro-a-celo-ampliando-las-oportunidades-para-los-titulares-de-btc-ae37a6635126",
+      "author": {
+        "id": "401391144786722817",
+        "name": "Vincagame",
+        "discriminator": "6490",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401391144786722817/2ad3d63e495f18958370ac709d2a8984.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "tBTC permite el acceso seguro a Celo, ampliando las oportunidades p...",
+          "url": "https://medium.com/@romanosadchyi/tbtc-permite-el-acceso-seguro-a-celo-ampliando-las-oportunidades-para-los-titulares-de-btc-ae37a6635126",
+          "timestamp": null,
+          "description": "translated Vincagame#6490",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/700/1*wcdzqIDz4EnJFCeVxXtZqQ.png",
+            "width": 700,
+            "height": 206
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    }
+  ],
+  "messageCount": 157
+}

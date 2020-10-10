@@ -1,0 +1,59 @@
+{
+    "guild": {
+        "id": "590951101600235531",
+        "name": "keep",
+        "iconUrl": "https://cdn.discordapp.com/icons/590951101600235531/15ed6b44b260db676a6ad9be4f554cda.png"
+    },
+    "channel": {
+        "id": "732004950317465651",
+        "type": "GuildTextChat",
+        "category": "🌍global",
+        "name": "🇮🇹keep-it",
+        "topic": null
+    },
+    "results": {
+        "365571906092400641": {
+            "id": "365571906092400641",
+            "name": "Cash__",
+            "discriminator": "7221",
+            "isBot": false,
+            "avatarUrl": "0fa22b41950e4ec4bc320245bb662fb6",
+            "contents": [
+                {
+                    "id": "733600246357295146",
+                    "timestamp": "2020-07-17T08:25:28.365+00:00",
+                    "url": "https://github.com/fomod-in/Guida-al-setup-di-un-KEEP-ECDSA-Node"
+                },
+                {
+                    "id": "734755570057478196",
+                    "timestamp": "2020-07-20T12:56:19+00:00",
+                    "url": "https://github.com/fomod-in/Panoramica-tecnica-su-tBTC"
+                }
+            ]
+        },
+        "417835652818927626": {
+            "id": "417835652818927626",
+            "name": "Fabio Papo",
+            "discriminator": "2105",
+            "isBot": false,
+            "avatarUrl": "2e12d99b88e115a0b88b5abd8f9b6328",
+            "contents": [
+                {
+                    "id": "736636368184279130",
+                    "timestamp": "2020-07-25T17:29:56.217+00:00",
+                    "url": "https://medium.com/@fabiopapo/guida-per-minare-tbtc-nella-rete-ethereum-ropsten-testnet-e4ade51aab98?sk=3a4bcf43a4349db7597e98300fd8b4b4"
+                },
+                {
+                    "id": "736636368184279130",
+                    "timestamp": "2020-07-25T17:29:56.217+00:00",
+                    "url": "https://medium.com/@fabiopapo/guida-per-rimborsare-il-tbtc-dalla-rete-ethereum-ropsten-testsnet-al-portafoglio-testnet-btc-ec9fb1e14a64"
+                },
+                {
+                    "id": "736636388799414272",
+                    "timestamp": "2020-07-25T17:30:01.132+00:00",
+                    "url": "https://medium.com/@fabiopapo/una-guida-per-creare-un-nodo-ecdsa-per-il-rete-keep-network-utilizzando-digitalocean-8f7b9c62476"
+                }
+            ]
+        }
+    }
+}

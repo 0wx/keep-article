@@ -1,0 +1,2901 @@
+{
+  "guild": {
+    "id": "590951101600235531",
+    "name": "keep",
+    "iconUrl": "https://cdn.discordapp.com/icons/590951101600235531/15ed6b44b260db676a6ad9be4f554cda.png"
+  },
+  "channel": {
+    "id": "697268266187358259",
+    "type": "GuildTextChat",
+    "category": "\uD83C\uDF0Dglobal",
+    "name": "\uD83C\uDDE9\uD83C\uDDEAkeep-de",
+    "topic": "German language channel"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "697270618630127686",
+      "type": "Default",
+      "timestamp": "2020-04-08T02:24:30.143+00:00",
+      "timestampEdited": "2020-04-15T04:30:28.678+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Willkommen auf dem deutschen Kanal Keep Discord!\n\nDieser Kanal ist f\u00FCr Gespr\u00E4che und Diskussionen rund um Keep und tBTC auf Deutsch gedacht. Dieser Kanal wird gr\u00F6\u00DFtenteils nicht \u00FCberwacht, aber wir werden jede deutsche Medienberichterstattung \u00FCber Keep und tBTC ver\u00F6ffentlichen und k\u00F6nnen (unvollst\u00E4ndig) mit Google \u00DCbersetzer antworten. \n\nKennzeichnen Sie uns, wenn Sie etwas brauchen!\n\n[Add list of potential Keep team that speak language - Matt, Piotr]",
+      "author": {
+        "id": "377359211144675330",
+        "name": "Kris",
+        "discriminator": "8703",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "697270639907700827",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2020-04-08T02:24:35.216+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "377359211144675330",
+        "name": "Kris",
+        "discriminator": "8703",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "697591086754955314",
+      "type": "Default",
+      "timestamp": "2020-04-08T23:37:55.698+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I spreche ein bisschen Deutsch \uD83E\uDD37\u200D\u2642\uFE0F",
+      "author": {
+        "id": "677292813603438653",
+        "name": "Matt Luongo",
+        "discriminator": "4163",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/677292813603438653/248fcd31aca6382a429b1ba02817fc4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "697591260252471297",
+      "type": "Default",
+      "timestamp": "2020-04-08T23:38:37.063+00:00",
+      "timestampEdited": "2020-04-08T23:38:44.211+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Auf Gymnasium habe ich gelernt",
+      "author": {
+        "id": "677292813603438653",
+        "name": "Matt Luongo",
+        "discriminator": "4163",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/677292813603438653/248fcd31aca6382a429b1ba02817fc4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "699539139820912642",
+      "type": "Default",
+      "timestamp": "2020-04-14T08:38:47.742+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Guten Morgen! \uD83D\uDC4B",
+      "author": {
+        "id": "469863531005739010",
+        "name": "Piotr Dyraga",
+        "discriminator": "3213",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/469863531005739010/49317a0ea1efa1a5e6907f7a798a3004.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "700812552975941682",
+      "type": "Default",
+      "timestamp": "2020-04-17T20:58:53.097+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hallo! \uD83D\uDC4B \nSprichst du Deutsch? \nMe: nat\u00FCrlich! Eins, zwei, Polizei, Drei, vier, Grenadier ... \uD83D\uDE04",
+      "author": {
+        "id": "226744957153574930",
+        "name": "Nik G",
+        "discriminator": "5422",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/226744957153574930/f8e2e2c5fbc84ab96be88f77f55b1e0c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "701766621311533057",
+      "type": "Default",
+      "timestamp": "2020-04-20T12:10:00.714+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@paddyson hallo!",
+      "author": {
+        "id": "677292813603438653",
+        "name": "Matt Luongo",
+        "discriminator": "4163",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/677292813603438653/248fcd31aca6382a429b1ba02817fc4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "701766633940582482",
+      "type": "Default",
+      "timestamp": "2020-04-20T12:10:03.725+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Haha sch\u00F6n das hier noch mehr Leute Deutsch sprechen",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "701766880590954546",
+      "type": "Default",
+      "timestamp": "2020-04-20T12:11:02.531+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Heh nur ein bisschen \uD83D\uDE04",
+      "author": {
+        "id": "677292813603438653",
+        "name": "Matt Luongo",
+        "discriminator": "4163",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/677292813603438653/248fcd31aca6382a429b1ba02817fc4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "702815683368583248",
+      "type": "Default",
+      "timestamp": "2020-04-23T09:38:36.599+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "dem Link folgend findet ihr einige von mir \u00FCbersetzten Beitr\u00E4ge, die sehr gerne kontrolliert und verbessert werden d\u00FCrfen.\nhttps://preview.tbtc.network/xenoglossy/admin/index.html#/collections/news-item-de",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "702815761705467944",
+      "type": "Default",
+      "timestamp": "2020-04-23T09:38:55.276+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://preview.tbtc.network/xenoglossy/admin/index.html#/collections/resource-de",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "702815832782405633",
+      "type": "Default",
+      "timestamp": "2020-04-23T09:39:12.222+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ggfs unter der Rubrik workflow",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "704320504424824932",
+      "type": "Default",
+      "timestamp": "2020-04-27T13:18:13.897+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@pathrock_70243/wie-man-um-keeps-spielt-f006a9a02746",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wie man um Keeps spielt",
+          "url": "https://medium.com/@pathrock_70243/wie-man-um-keeps-spielt-f006a9a02746",
+          "timestamp": null,
+          "description": "Lerne KEEP zu staken und gewinne durch Beitr\u00E4ge zur Community",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*GKJucMN8ouO-69Cfj3U1vQ.png",
+            "width": 1200,
+            "height": 354
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44f.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "708280744207974401",
+      "type": "Default",
+      "timestamp": "2020-05-08T11:34:48.639+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hi alle zusammen\uD83D\uDC4B",
+      "author": {
+        "id": "402738570412032003",
+        "name": "Cryptoweezle",
+        "discriminator": "2309",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/402738570412032003/03b4d988ce1e746cf777c703d642c0ab.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "708670658258927688",
+      "type": "Default",
+      "timestamp": "2020-05-09T13:24:11.393+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Cryptoweezle hi",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "709054131813482526",
+      "type": "Default",
+      "timestamp": "2020-05-10T14:47:58.613+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@pathrock_70243/einf%C3%BChrung-von-tbtc-der-sichere-weg-mit-deinen-bitcoin-zu-verdienen-375a331956dd",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Einf\u00FChrung von tBTC: Der sichere Weg, mit deinen Bitcoin zu verdienen",
+          "url": "https://medium.com/@pathrock_70243/einf%C3%BChrung-von-tbtc-der-sichere-weg-mit-deinen-bitcoin-zu-verdienen-375a331956dd",
+          "timestamp": null,
+          "description": "Melde dich f\u00FCr Updates zum Start von tBTC an und informiere dich wie du teilnehmen kannst.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*mQEdJhQTVd1xvHLU3friFw.jpeg",
+            "width": 1200,
+            "height": 354
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "710687634577555536",
+      "type": "Default",
+      "timestamp": "2020-05-15T02:58:56.021+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also ist eher f\u00FCr \u00DCbersetzungen und nicht Diskussionen hier, falls ich das richtig verstanden habe",
+      "author": {
+        "id": "659540563653165056",
+        "name": "\u03A4\u03B5\u03C4\u03C1\u03B1\u03C6\u03B5\u03B3\u03B3\u03B1\u03C1\u03BF \u03C7 \u03B3\u03B3",
+        "discriminator": "9747",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/659540563653165056/99f59e1f741b013a2311b749dca409b5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "710766106477854801",
+      "type": "Default",
+      "timestamp": "2020-05-15T08:10:45.18+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@\u03A4\u03B5\u03C4\u03C1\u03B1\u03C6\u03B5\u03B3\u03B3\u03B1\u03C1\u03BF \u03C7 \u03B3\u03B3 diskutieren geht nat\u00FCrlich genauso \uD83D\uDE09",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "710832600343773234",
+      "type": "Default",
+      "timestamp": "2020-05-15T12:34:58.553+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sehr sch\u00F6n.. tBTC ist schon ne feine Sache aber f\u00FCr was genau ist  keep token? bonus f\u00FCr stacken?",
+      "author": {
+        "id": "659540563653165056",
+        "name": "\u03A4\u03B5\u03C4\u03C1\u03B1\u03C6\u03B5\u03B3\u03B3\u03B1\u03C1\u03BF \u03C7 \u03B3\u03B3",
+        "discriminator": "9747",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/659540563653165056/99f59e1f741b013a2311b749dca409b5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "710862939451818117",
+      "type": "Default",
+      "timestamp": "2020-05-15T14:35:31.96+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, der keep token wird f\u00FCr alle Aufgaben / Arbeiten im Keep-Netzwerk ben\u00F6tigt",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "710862998071148605",
+      "type": "Default",
+      "timestamp": "2020-05-15T14:35:45.936+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hier ein Artikel zum nachlesen https://medium.com/@pathrock_70243/wie-der-keep-token-funktioniert-66e5296a7401",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wie der KEEP-Token funktioniert",
+          "url": "https://medium.com/@pathrock_70243/wie-der-keep-token-funktioniert-66e5296a7401",
+          "timestamp": null,
+          "description": "KEEP wird verwendet, um Arbeiten im Keep-Netzwerk zuzuweisen.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*sAQA33ckZMAAwEayldESDw.jpeg",
+            "width": 1200,
+            "height": 354
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "710876355704782940",
+      "type": "Default",
+      "timestamp": "2020-05-15T15:28:50.644+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Perfekt... Danke dir",
+      "author": {
+        "id": "659540563653165056",
+        "name": "\u03A4\u03B5\u03C4\u03C1\u03B1\u03C6\u03B5\u03B3\u03B3\u03B1\u03C1\u03BF \u03C7 \u03B3\u03B3",
+        "discriminator": "9747",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/659540563653165056/99f59e1f741b013a2311b749dca409b5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "710876560831283232",
+      "type": "Default",
+      "timestamp": "2020-05-15T15:29:39.55+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sehr gerne \uD83D\uDE09",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "710876625004134401",
+      "type": "Default",
+      "timestamp": "2020-05-15T15:29:54.85+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hast du nodes am Laufen?",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "710876771859562518",
+      "type": "Default",
+      "timestamp": "2020-05-15T15:30:29.863+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "und gerne eine R\u00FCckmeldung bez\u00FCglich des Artikels",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "710900040788475914",
+      "type": "Default",
+      "timestamp": "2020-05-15T17:02:57.608+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Artikel ist top, schon durchdacht, Spiele mit dem gedanken aber hab noch n gutes st\u00FCck an Recherche vor mir \uD83D\uDE05",
+      "author": {
+        "id": "659540563653165056",
+        "name": "\u03A4\u03B5\u03C4\u03C1\u03B1\u03C6\u03B5\u03B3\u03B3\u03B1\u03C1\u03BF \u03C7 \u03B3\u03B3",
+        "discriminator": "9747",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/659540563653165056/99f59e1f741b013a2311b749dca409b5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "710927480369709106",
+      "type": "Default",
+      "timestamp": "2020-05-15T18:51:59.714+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Setz auf jeden Fall eine node im Testnetz auf",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "710927541703278692",
+      "type": "Default",
+      "timestamp": "2020-05-15T18:52:14.337+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Falls du Hilfe brauchst gib bescheid",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "710932286882971689",
+      "type": "Default",
+      "timestamp": "2020-05-15T19:11:05.676+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "top, danke",
+      "author": {
+        "id": "659540563653165056",
+        "name": "\u03A4\u03B5\u03C4\u03C1\u03B1\u03C6\u03B5\u03B3\u03B3\u03B1\u03C1\u03BF \u03C7 \u03B3\u03B3",
+        "discriminator": "9747",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/659540563653165056/99f59e1f741b013a2311b749dca409b5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "711540797878566919",
+      "type": "Default",
+      "timestamp": "2020-05-17T11:29:06.003+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@pathrock_70243/tbtc-wird-deine-bitcoin-niemals-liquidieren-3e6af05fb366",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "tBTC wird deine Bitcoin niemals liquidieren",
+          "url": "https://medium.com/@pathrock_70243/tbtc-wird-deine-bitcoin-niemals-liquidieren-3e6af05fb366",
+          "timestamp": null,
+          "description": "tBTC erm\u00F6glicht es Anwendern, ihre Bitcoin zu verwenden, um an dezentralisierten Finanzprojekten wie Maker teilzunehmen, die auf Ethereum\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*OJG_3QnKo9VopCSAszD3Kg.jpeg",
+            "width": 1200,
+            "height": 354
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "718447549861724191",
+      "type": "Default",
+      "timestamp": "2020-06-05T12:54:03.997+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@pathrock_70243/1-million-keep-f%C3%BCr-den-ersten-monat-von-playing-for-keeps-vergeben-3ef799beefa4",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "1 Million KEEP f\u00FCr den ersten Monat von Playing for Keeps vergeben",
+          "url": "https://medium.com/@pathrock_70243/1-million-keep-f%C3%BCr-den-ersten-monat-von-playing-for-keeps-vergeben-3ef799beefa4",
+          "timestamp": null,
+          "description": "Beitr\u00E4ge, die sich auf ECDSA-Staking und Hardware-Experimente konzentrierten, erhielten die Hauptpreise von Juror Zaki Manian",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*LH3xVNprt_cNLtdhgEKAYg.png",
+            "width": 1200,
+            "height": 354
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "718743817842589787",
+      "type": "Default",
+      "timestamp": "2020-06-06T08:31:19.788+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@pathrock_70243/keeps-stakedrop-veranstaltung-beginnt-am-montag-ebc93283260",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Keep\u2019s Stakedrop-Veranstaltung beginnt am Montag.",
+          "url": "https://medium.com/@pathrock_70243/keeps-stakedrop-veranstaltung-beginnt-am-montag-ebc93283260",
+          "timestamp": null,
+          "description": "Was Sie ben\u00F6tigen und was Sie erwartet",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*0IqtquBqR5y6K2yjHWTntw.png",
+            "width": 1200,
+            "height": 354
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "723287376176218163",
+      "type": "Default",
+      "timestamp": "2020-06-18T21:25:48.51+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@pathrock_70243/wonach-spencer-noon-in-monat-2-von-playing-for-keeps-ausschau-h%C3%A4lt-62b72472d516",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wonach Spencer Noon in Monat 2 von Playing for Keeps ausschau h\u00E4lt",
+          "url": "https://medium.com/@pathrock_70243/wonach-spencer-noon-in-monat-2-von-playing-for-keeps-ausschau-h%C3%A4lt-62b72472d516",
+          "timestamp": null,
+          "description": "Im Juni wird der Schwerpunkt auf Analysewerkzeugen liegen, die dazu beitragen k\u00F6nnen, ein Bild \u00FCber den Zustand des Keep-Netzwerks liefern.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*tYKduvr5r4nQe2eS-sr03w.png",
+            "width": 1200,
+            "height": 618
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "723989532038397983",
+      "type": "Default",
+      "timestamp": "2020-06-20T19:55:55.513+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@pathrock_70243/aufruf-an-alle-hacker-f%C3%BCr-die-chance-50-000-keep-zu-gewinnen-28aaa4fe46de",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Aufruf an alle Hacker f\u00FCr die Chance, 50.000\u002B KEEP zu gewinnen",
+          "url": "https://medium.com/@pathrock_70243/aufruf-an-alle-hacker-f%C3%BCr-die-chance-50-000-keep-zu-gewinnen-28aaa4fe46de",
+          "timestamp": null,
+          "description": "Der Keep-Privatsph\u00E4re-Preis wird im Rahmen des Gitcoin Hackathon zum Schutz der Privatsph\u00E4re verliehen, bei dem Keep ein Sponsor ist.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*O2UTSMD1OazwTxelb-XYkA.png",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "725405328908222654",
+      "type": "Default",
+      "timestamp": "2020-06-24T17:41:47.791+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Kris got a few more translations here",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64c.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f525.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "730665451918458892",
+      "type": "Default",
+      "timestamp": "2020-07-09T06:03:38.845+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@pathrock_70243/mit-der-vergabe-von-2-millionen-keep-steht-der-zweite-monat-des-playing-for-keeps-in-den-b%C3%BCchern-452135a19c3a",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Mit der Vergabe von 2 Millionen KEEP steht der zweite Monat des Pla...",
+          "url": "https://medium.com/@pathrock_70243/mit-der-vergabe-von-2-millionen-keep-steht-der-zweite-monat-des-playing-for-keeps-in-den-b%C3%BCchern-452135a19c3a",
+          "timestamp": null,
+          "description": "Die Hauptpreise von Juror Spencer Noon gingen unter anderem an Beitr\u00E4ge f\u00FCr das Dune Dashboard",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/700/1*pvGslwY8BxMoNFttNGEmrQ.png",
+            "width": 700,
+            "height": 206
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "734066037087010887",
+      "type": "Default",
+      "timestamp": "2020-07-18T15:16:21.529+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@pathrock_70243/wonach-viktor-bunin-im-monat-3-von-playing-for-keeps-ausschau-h%C3%A4lt-466e192c5030",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wonach Viktor Bunin im Monat 3 von Playing for Keeps Ausschau h\u00E4lt",
+          "url": "https://medium.com/@pathrock_70243/wonach-viktor-bunin-im-monat-3-von-playing-for-keeps-ausschau-h%C3%A4lt-466e192c5030",
+          "timestamp": null,
+          "description": "Im Juli liegt der Schwerpunkt auf aktiven Management-Tools f\u00FCr das Keep Network \u0026 Design",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/700/1*aG-M52dsxL6w8xcKwnITNA.png",
+            "width": 700,
+            "height": 350
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "743581919312085112",
+      "type": "Default",
+      "timestamp": "2020-08-13T21:29:04.648+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hallo",
+      "author": {
+        "id": "742376305177395240",
+        "name": "Hannes",
+        "discriminator": "7644",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/742376305177395240/82d0a916351e138db1ddf5c03cef29fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "745650586921336872",
+      "type": "Default",
+      "timestamp": "2020-08-19T14:29:13.44+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hallo @Hannes",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "745950797572997171",
+      "type": "Default",
+      "timestamp": "2020-08-20T10:22:09.237+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hallo, wo kann man den tbtc Token kaufen?",
+      "author": {
+        "id": "502224018812960818",
+        "name": "Andreas1705",
+        "discriminator": "9433",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/502224018812960818/821b2d1dd62750a72ca0f4c9cce91d65.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "746037175321231530",
+      "type": "Default",
+      "timestamp": "2020-08-20T16:05:23.297+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @Andreas1705. Ich wurde keine tBTC kaufen, weil die keinen eigentlichen Wert haben. Alles andere is a scam. Man kann nat\u00FCrlich auf Bitcointalk rumschauen, da LEIHEN die Leute dir tBTC f\u00FCrs testing, was man wiedergeben soll. Falls dich den Zusammenhang von tBTC und KEEP interessiert, hier ist ein gutes Video, was dir vielleicht helfen wird: https://www.youtube.com/watch?v=T1cA1I5Fagg \uD83D\uDE42",
+      "author": {
+        "id": "402432735680921603",
+        "name": "Nikita",
+        "discriminator": "7876",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to mint tBTC on KEEP Network testnet.",
+          "url": "https://www.youtube.com/watch?v=T1cA1I5Fagg",
+          "timestamp": null,
+          "description": "Guide how to mint tBTC on testnet.\n1. https://block.io/ - Create a wallet for test BTC. Choose testnet and create new address.\n2. https://tbtc.bitaps.com/ - Request test BTC from faucet.\n3. Create new wallet for test ETH in metamask extension.\n4. Choose Ropsten network in meta...",
+          "author": {
+            "name": "Hush-Hush Crypto",
+            "url": "https://www.youtube.com/channel/UCf1K3duvedSx4nstQeoCcuA"
+          },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/T1cA1I5Fagg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "746111796179370124",
+      "type": "Default",
+      "timestamp": "2020-08-20T21:01:54.296+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@pathrock_70243/bei-playing-for-keeps-keeps-ist-jetzt-halbzeit-es-wurden-7-millionen-keeps-vergeben-9b57b4c91922",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bei Playing for Keeps Keeps ist jetzt Halbzeit, es wurden 7 Million...",
+          "url": "https://medium.com/@pathrock_70243/bei-playing-for-keeps-keeps-ist-jetzt-halbzeit-es-wurden-7-millionen-keeps-vergeben-9b57b4c91922",
+          "timestamp": null,
+          "description": "Teilnehmer k\u00F6nnen weitere Millionen KEEP gewinnen, w\u00E4hrend wir in den September \u00FCbergehen.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/700/1*KVm_CQoJKEOpra9628SEiw.png",
+            "width": 700,
+            "height": 206
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "747527315369754774",
+      "type": "Default",
+      "timestamp": "2020-08-24T18:46:40.37+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Dream wir sprechen Deutsch hier",
+      "author": {
+        "id": "677292813603438653",
+        "name": "Matt Luongo",
+        "discriminator": "4163",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/677292813603438653/248fcd31aca6382a429b1ba02817fc4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "747528153697878087",
+      "type": "Default",
+      "timestamp": "2020-08-24T18:50:00.243+00:00",
+      "timestampEdited": "2020-08-24T18:50:18.119+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also ! Ihc habe keine Information/ Erste mal)",
+      "author": {
+        "id": "746323695278096386",
+        "name": "Dream",
+        "discriminator": "5650",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/746323695278096386/7cbf3df28b393946fcb539f5a74fd9d7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "747528316105523349",
+      "type": "Default",
+      "timestamp": "2020-08-24T18:50:38.964+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dancke",
+      "author": {
+        "id": "746323695278096386",
+        "name": "Dream",
+        "discriminator": "5650",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/746323695278096386/7cbf3df28b393946fcb539f5a74fd9d7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748179224497619005",
+      "type": "Default",
+      "timestamp": "2020-08-26T13:57:07.618+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hallo:peace: ! Ich habe solche Artikel \u00FCbersetzt!\uD83D\uDE42",
+      "author": {
+        "id": "685616930501296206",
+        "name": "ViktoriaW",
+        "discriminator": "8064",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/685616930501296206/aad3ea27069ead8326943820f8073e4c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748179385294651501",
+      "type": "Default",
+      "timestamp": "2020-08-26T13:57:45.955+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@weissbergwiktoria/bison-trails-und-keep-network-2299bb50d15a",
+      "author": {
+        "id": "685616930501296206",
+        "name": "ViktoriaW",
+        "discriminator": "8064",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/685616930501296206/aad3ea27069ead8326943820f8073e4c.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bison Trails und Keep Network",
+          "url": "https://medium.com/@weissbergwiktoria/bison-trails-und-keep-network-2299bb50d15a",
+          "timestamp": null,
+          "description": "Keep ist eine Datenschutzschicht f\u00FCr Ethereum und bietet eine Br\u00FCcke zwischen der Welt der \u00F6ffentlichen Blockchains und privaten Daten.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/700/1*KxotZ8mOk2wur6fd7Ao-0g.png",
+            "width": 700,
+            "height": 659
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748179464424259675",
+      "type": "Default",
+      "timestamp": "2020-08-26T13:58:04.821+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@weissbergwiktoria/keep-leitfaden-durch-bison-trails-4ace8a1a97fd",
+      "author": {
+        "id": "685616930501296206",
+        "name": "ViktoriaW",
+        "discriminator": "8064",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/685616930501296206/aad3ea27069ead8326943820f8073e4c.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Keep Leitfaden durch Bison Trails",
+          "url": "https://medium.com/@weissbergwiktoria/keep-leitfaden-durch-bison-trails-4ace8a1a97fd",
+          "timestamp": null,
+          "description": "Bison Trails gibt \u00FCber Keep Unterst\u00FCtzung",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/700/1*hSqObyhCKKcF-T2JRake-A.png",
+            "width": 700,
+            "height": 393
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748179537116004473",
+      "type": "Default",
+      "timestamp": "2020-08-26T13:58:22.152+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@weissbergwiktoria/sicherheiten-und-liquidationsgesch%C3%A4fte-im-keep-netzwerk-5e6dd6a5b31",
+      "author": {
+        "id": "685616930501296206",
+        "name": "ViktoriaW",
+        "discriminator": "8064",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/685616930501296206/aad3ea27069ead8326943820f8073e4c.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Sicherheiten- und Liquidationsgesch\u00E4fte im Keep-Netzwerk",
+          "url": "https://medium.com/@weissbergwiktoria/sicherheiten-und-liquidationsgesch%C3%A4fte-im-keep-netzwerk-5e6dd6a5b31",
+          "timestamp": null,
+          "description": "(Inoffizielle Community-\u00DCbersetzung eines Beitrags von Bison Trails )\u00A0\nWenn Sie sich entscheiden, die ETH im Keep-Netzwerk zu bankieren\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*00LJtJhm_SP36VmmovHoGA.png",
+            "width": 1200,
+            "height": 677
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748181147019771944",
+      "type": "Default",
+      "timestamp": "2020-08-26T14:04:45.983+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@weissbergwiktoria/bitcoin-zu-defi-1dd072d4d598",
+      "author": {
+        "id": "685616930501296206",
+        "name": "ViktoriaW",
+        "discriminator": "8064",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/685616930501296206/aad3ea27069ead8326943820f8073e4c.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bitcoin zu DeFi",
+          "url": "https://medium.com/@weissbergwiktoria/bitcoin-zu-defi-1dd072d4d598",
+          "timestamp": null,
+          "description": "Ein langj\u00E4hriges Problem bei den meisten Blockchain-Architekturen ist, dass keine Daten jemals wirklich \u201Cprivat\u201D sind. Viele Blockchains\u2026",
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748430885904187443",
+      "type": "Default",
+      "timestamp": "2020-08-27T06:37:08.373+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@schtainerklaus/werden-sie-ein-tbtc-abonnent-sammeln-sie-keep-token-f%C3%BCr-den-einsatz-der-eth-5097f57b2188",
+      "author": {
+        "id": "685573681262755987",
+        "name": "Crypto Klaus",
+        "discriminator": "1708",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Werden Sie ein tBTC-Abonnent: Sammeln Sie KEEP-Token f\u00FCr den Einsat...",
+          "url": "https://medium.com/@schtainerklaus/werden-sie-ein-tbtc-abonnent-sammeln-sie-keep-token-f%C3%BCr-den-einsatz-der-eth-5097f57b2188",
+          "timestamp": null,
+          "description": "Der erste \u201EStake Drop\u201C im Keep-Netzwerk beginnt am 8 Juni. Als tBTC-Abonnent kann jeder interessierte ETH-Inhaber auf Antragsprovisionen\u2026",
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748431774551375992",
+      "type": "Default",
+      "timestamp": "2020-08-27T06:40:40.243+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@schtainerklaus/da5b9100be92",
+      "author": {
+        "id": "685573681262755987",
+        "name": "Crypto Klaus",
+        "discriminator": "1708",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Merkmale des tBTC-Systems",
+          "url": "https://medium.com/@schtainerklaus/da5b9100be92",
+          "timestamp": null,
+          "description": "BTC verwendet mehrere neue Designmerkmale, die f\u00FCr Benutzer wichtig sind. Vier davon werden im Folgenden beschrieben: TDT-Belege\u2026",
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748431809649442907",
+      "type": "Default",
+      "timestamp": "2020-08-27T06:40:48.611+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@schtainerklaus/so-verdienen-sie-keep-token-indem-sie-die-eth-einsetzen-633b9e9c5aef",
+      "author": {
+        "id": "685573681262755987",
+        "name": "Crypto Klaus",
+        "discriminator": "1708",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "So verdienen Sie KEEP-Token, indem Sie die ETH einsetzen",
+          "url": "https://medium.com/@schtainerklaus/so-verdienen-sie-keep-token-indem-sie-die-eth-einsetzen-633b9e9c5aef",
+          "timestamp": null,
+          "description": "Mit dem f\u00FCr den 8. Juni 2020 geplanten Stake Drop k\u00F6nnen ETH-Inhaber KEEP-Token verdienen, indem sie sich an der Sicherung des\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*iLqy3MlyhnyNtKbYcFsiQw.png",
+            "width": 1200,
+            "height": 354
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748432374286778378",
+      "type": "Default",
+      "timestamp": "2020-08-27T06:43:03.231+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@schtainerklaus/4f77457c3daa",
+      "author": {
+        "id": "685573681262755987",
+        "name": "Crypto Klaus",
+        "discriminator": "1708",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "So verwenden Sie die tBTC-App",
+          "url": "https://medium.com/@schtainerklaus/4f77457c3daa",
+          "timestamp": null,
+          "description": "So verwenden Sie die tBTC-App",
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748432804752130058",
+      "type": "Default",
+      "timestamp": "2020-08-27T06:44:45.862+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Guten Tag. Ich habe 8 Artikel \u00FCbersetzt.",
+      "author": {
+        "id": "685573681262755987",
+        "name": "Crypto Klaus",
+        "discriminator": "1708",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748560059784757278",
+      "type": "Default",
+      "timestamp": "2020-08-27T15:10:25.826+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Jungs, das ist die \u00DCbersetzung von solcher Artikel\uD83E\uDD1F",
+      "author": {
+        "id": "685581907614105658",
+        "name": "$Bruck",
+        "discriminator": "8756",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748560107914395778",
+      "type": "Default",
+      "timestamp": "2020-08-27T15:10:37.301+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@sofiabru078/bitcoin-auf-ethereum-keine-spiele-reine-mathematik-b15df4deb445",
+      "author": {
+        "id": "685581907614105658",
+        "name": "$Bruck",
+        "discriminator": "8756",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bitcoin auf Ethereum: keine Spiele, reine Mathematik",
+          "url": "https://medium.com/@sofiabru078/bitcoin-auf-ethereum-keine-spiele-reine-mathematik-b15df4deb445",
+          "timestamp": null,
+          "description": "Seit wir zusammen mit Summa auf dem Cross Chain Summit im August die Gr\u00FCndung von tBTC angek\u00FCndigt haben, haben wir flei\u00DFig einen\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*vRwPWGDorBc_zlXRW6CXcg.png",
+            "width": 1200,
+            "height": 354
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748560224822231171",
+      "type": "Default",
+      "timestamp": "2020-08-27T15:11:05.174+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@sofiabru078/430b1416c95a",
+      "author": {
+        "id": "685581907614105658",
+        "name": "$Bruck",
+        "discriminator": "8756",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "KEEP ist ein vollst\u00E4ndig Open Source Projekt",
+          "url": "https://medium.com/@sofiabru078/430b1416c95a",
+          "timestamp": null,
+          "description": "Die Tatsache, dass KEEP vollst\u00E4ndig Open Source ist, macht tBTC zur ersten und einzigen Open Source-BTC-Br\u00FCcke mit berechtigungslosem\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*A8A_JJaeL0O6EWhtqeaQoQ.png",
+            "width": 1200,
+            "height": 354
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748560256111476797",
+      "type": "Default",
+      "timestamp": "2020-08-27T15:11:12.634+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@sofiabru078/70e189a2776d",
+      "author": {
+        "id": "685581907614105658",
+        "name": "$Bruck",
+        "discriminator": "8756",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Die Bedeutung der Zuf\u00E4lligkeit: die Rolle von KEEP in tBTC",
+          "url": "https://medium.com/@sofiabru078/70e189a2776d",
+          "timestamp": null,
+          "description": "Der Beitrag von KEEP zur ersten Anwendung, mit der ein BTC-Besitzer im Ethereum-Netzwerk Geld verdienen kann.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*PI6YIqTxgCFEaZkmjRa7lQ.jpeg",
+            "width": 1200,
+            "height": 342
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748649661333766246",
+      "type": "Default",
+      "timestamp": "2020-08-27T21:06:28.5+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Moin wollte mal fragen ob die stakingdrop Phase schon l\u00E4uft und ob es sich lohnt noch mitzumachen",
+      "author": {
+        "id": "399280705860927500",
+        "name": "Taddytradus",
+        "discriminator": "7259",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748653800545583261",
+      "type": "Default",
+      "timestamp": "2020-08-27T21:22:55.365+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lohnt sich immer @Taddytradus",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748654230528721036",
+      "type": "Default",
+      "timestamp": "2020-08-27T21:24:37.881+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@ViktoriaW schreib mich mal an ...",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748654431700254793",
+      "type": "Default",
+      "timestamp": "2020-08-27T21:25:25.844+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cool wenn hier mehr unterwegs sind",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748661372212215839",
+      "type": "Default",
+      "timestamp": "2020-08-27T21:53:00.591+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok cool. Wo ist das genau beschrieben hier und wie lange l\u00E4uft noch diese Stakingdrop Phase?",
+      "author": {
+        "id": "399280705860927500",
+        "name": "Taddytradus",
+        "discriminator": "7259",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748852169394094101",
+      "type": "Default",
+      "timestamp": "2020-08-28T10:31:10.184+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Taddytradus der stakedrop startet bald wurde verschoben",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748852295764148274",
+      "type": "Default",
+      "timestamp": "2020-08-28T10:31:40.313+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bei playing for keeps ist jetzt Halbzeit",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748852416975470632",
+      "type": "Default",
+      "timestamp": "2020-08-28T10:32:09.212+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@pathrock_70243/bei-playing-for-keeps-keeps-ist-jetzt-halbzeit-es-wurden-7-millionen-keeps-vergeben-9b57b4c91922",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bei Playing for Keeps Keeps ist jetzt Halbzeit, es wurden 7 Million...",
+          "url": "https://medium.com/@pathrock_70243/bei-playing-for-keeps-keeps-ist-jetzt-halbzeit-es-wurden-7-millionen-keeps-vergeben-9b57b4c91922",
+          "timestamp": null,
+          "description": "Teilnehmer k\u00F6nnen weitere Millionen KEEP gewinnen, w\u00E4hrend wir in den September \u00FCbergehen.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/700/1*KVm_CQoJKEOpra9628SEiw.png",
+            "width": 700,
+            "height": 206
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748923001323520101",
+      "type": "Default",
+      "timestamp": "2020-08-28T15:12:37.832+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Die \u00DCbersetzung ist fertig\uD83D\uDE00",
+      "author": {
+        "id": "685578648518131752",
+        "name": "Crypt0lga",
+        "discriminator": "6338",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/685578648518131752/a80e39e23e4b7b2b8922b49e9398529a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748923108957618176",
+      "type": "Default",
+      "timestamp": "2020-08-28T15:13:03.494+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@hbraunning/halten-sie-stakedrop-keep-risiken-und-minderungsstrategien-d11849db19bc",
+      "author": {
+        "id": "685578648518131752",
+        "name": "Crypt0lga",
+        "discriminator": "6338",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/685578648518131752/a80e39e23e4b7b2b8922b49e9398529a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Halten Sie Stakedrop Keep Risiken und Minderungsstrategien",
+          "url": "https://medium.com/@hbraunning/halten-sie-stakedrop-keep-risiken-und-minderungsstrategien-d11849db19bc",
+          "timestamp": null,
+          "description": "\u201EIch mag ETH in dem kommenden Stakedrop Keep eintragen. Wie kann ich es verlieren? \u201C",
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748923190633300021",
+      "type": "Default",
+      "timestamp": "2020-08-28T15:13:22.967+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@hbraunning/welche-entwicklung-kann-die-verbindung-von-bitcoin-und-ethereum-in-tbtc-bekommen-d16610b94e0f",
+      "author": {
+        "id": "685578648518131752",
+        "name": "Crypt0lga",
+        "discriminator": "6338",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/685578648518131752/a80e39e23e4b7b2b8922b49e9398529a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Welche Entwicklung kann die Verbindung von Bitcoin und Ethereum in ...",
+          "url": "https://medium.com/@hbraunning/welche-entwicklung-kann-die-verbindung-von-bitcoin-und-ethereum-in-tbtc-bekommen-d16610b94e0f",
+          "timestamp": null,
+          "description": "Der Bau einer vertrauensw\u00FCrdigen Mittelsmannbr\u00FCcke zwischen Bitcoin und Ethereum gilt seit langem als Wunschtraum. Diese Woche hat sich\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/700/1*CZ4l_r1WwnEUwIow2Y5TmQ.png",
+            "width": 700,
+            "height": 299
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748923352436965406",
+      "type": "Default",
+      "timestamp": "2020-08-28T15:14:01.544+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@hbraunning/wie-millennial-finance-das-derzeitige-bankensystem-%C3%BCberholt-4de9a06812ee",
+      "author": {
+        "id": "685578648518131752",
+        "name": "Crypt0lga",
+        "discriminator": "6338",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/685578648518131752/a80e39e23e4b7b2b8922b49e9398529a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wie Millennial Finance das derzeitige Bankensystem \u00FCberholt",
+          "url": "https://medium.com/@hbraunning/wie-millennial-finance-das-derzeitige-bankensystem-%C3%BCberholt-4de9a06812ee",
+          "timestamp": null,
+          "description": "Auf millenialov oft als F\u00FChrer in der modernen Gesellschaft angesehen. Mit Ausnahme von Babyboomern hat keine andere Generation eine\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/700/1*BVNGfC-_LIqgqIA9tn265g.jpeg",
+            "width": 700,
+            "height": 466
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748923416928845907",
+      "type": "Default",
+      "timestamp": "2020-08-28T15:14:16.92+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@hbraunning/plebtc-entwickler-belohnten-75-000-keep-beim-hackathon-festival-bb94098adc56",
+      "author": {
+        "id": "685578648518131752",
+        "name": "Crypt0lga",
+        "discriminator": "6338",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/685578648518131752/a80e39e23e4b7b2b8922b49e9398529a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "PleBTC-Entwickler belohnten 75.000 KEEP beim Hackathon Festival",
+          "url": "https://medium.com/@hbraunning/plebtc-entwickler-belohnten-75-000-keep-beim-hackathon-festival-bb94098adc56",
+          "timestamp": null,
+          "description": "Die App-Entwickler haben eine M\u00F6glichkeit geschaffen, BTC als Token an Ethereum zu \u00FCbertragen.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/700/1*JTbwXTG0ZcwTMKF1inU9wQ.jpeg",
+            "width": 700,
+            "height": 350
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748923452227977299",
+      "type": "Default",
+      "timestamp": "2020-08-28T15:14:25.336+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@hbraunning/tbtc-einf%C3%BChrung-wird-von-75-prozent-des-defi-marktes-unterst%C3%BCtzt-82ae2fee62ef",
+      "author": {
+        "id": "685578648518131752",
+        "name": "Crypt0lga",
+        "discriminator": "6338",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/685578648518131752/a80e39e23e4b7b2b8922b49e9398529a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TBTC-Einf\u00FChrung wird von 75 Prozent des DeFi-Marktes unterst\u00FCtzt",
+          "url": "https://medium.com/@hbraunning/tbtc-einf%C3%BChrung-wird-von-75-prozent-des-defi-marktes-unterst%C3%BCtzt-82ae2fee62ef",
+          "timestamp": null,
+          "description": "Der Start von tBTC, einem Open-Source-Projekt, mit dem Bitcoin sicher in Ethereum-DeFi-Anwendungen verwendet werden kann, begann diese\u2026",
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748923823683928142",
+      "type": "Default",
+      "timestamp": "2020-08-28T15:15:53.898+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@hbraunning/offenlegung-von-sicherheitsl%C3%BCcken-bei-certora-provisionen-von-unterzeichnern-im-tbtc-system-a82123cc2db5",
+      "author": {
+        "id": "685578648518131752",
+        "name": "Crypt0lga",
+        "discriminator": "6338",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/685578648518131752/a80e39e23e4b7b2b8922b49e9398529a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Offenlegung von Sicherheitsl\u00FCcken bei Certora: Provisionen von Unte...",
+          "url": "https://medium.com/@hbraunning/offenlegung-von-sicherheitsl%C3%BCcken-bei-certora-provisionen-von-unterzeichnern-im-tbtc-system-a82123cc2db5",
+          "timestamp": null,
+          "description": "tBTC\u200A\u2014\u200Aein System auf dem Netzwerk aufgebaut Keep, die bietet dem Anwender die M\u00F6glichkeit, ihre machen Bitcoins (BTC) im Austausch f\u00FCr\u2026",
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "748955341726810222",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:21:08.385+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@paddyson ja das habe ich. Auch gelesen. Werdet ihr denn da mitmachen?  Und lohnt es sich jetzt schon die 90k keep zu kaufen oder werdet ihr auch nur eth staken?",
+      "author": {
+        "id": "399280705860927500",
+        "name": "Taddytradus",
+        "discriminator": "7259",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748957229788692671",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:28:38.534+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Taddytradus pers\u00F6nlich w\u00FCrde ich aktuell keine kaufen, sondern versuchen \u00FCber playing for keeps welche zu verdienen \uD83D\uDE09",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748957338647658666",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:29:04.488+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Und dann beim ETH stakedrop mitmachen",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748957402128449547",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:29:19.623+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "90k ist ziemlich viel",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748957526829039717",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:29:49.354+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ja deswegen. Denke mir, \u00FCbers playing wird das wohl nicht klappen",
+      "author": {
+        "id": "399280705860927500",
+        "name": "Taddytradus",
+        "discriminator": "7259",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748957573704843335",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:30:00.53+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dann doch nur eth staken",
+      "author": {
+        "id": "399280705860927500",
+        "name": "Taddytradus",
+        "discriminator": "7259",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748957598509957142",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:30:06.444+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Naja ich habe da einiges bekommen",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748957672010940466",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:30:23.968+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok. Dann muss ich mir das nochmal anschauen",
+      "author": {
+        "id": "399280705860927500",
+        "name": "Taddytradus",
+        "discriminator": "7259",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748957716566900896",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:30:34.591+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Aber das staken soll ja schon bald losgehen",
+      "author": {
+        "id": "399280705860927500",
+        "name": "Taddytradus",
+        "discriminator": "7259",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748957958293159986",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:31:32.223+00:00",
+      "timestampEdited": "2020-08-28T19:01:06.504+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "L\u00E4uft deine node? @Taddytradus",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748958192054304769",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:32:27.956+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ich habe im pfk KEEP bekommen, daher kann ich die im mainnet staken",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748958422741024768",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:33:22.956+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Du solltest auch schauen dass du deine Beitr\u00E4ge f\u00FCr playing for keep einreichst um keep zu bekommen",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748958513128144906",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:33:44.506+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also f\u00FCr August sp\u00E4testens am Sonntag",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748959445018738728",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:37:26.686+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Crypt0lga falls du google translator verwendest, der funktioniert meistens nicht und viele der \u00DCbersetzungen sind einfach falsch und schlecht",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748959446511648819",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:37:27.042+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ich w\u00FCrde dir empfehlen deine Artikel zu \u00FCberarbeiten",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "748959454262722590",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:37:28.89+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sorry nicht falsch verstehen, aber das hat mit einer \u00DCbersetzung nichts zu tun",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "749158615801135174",
+      "type": "Default",
+      "timestamp": "2020-08-29T06:48:52.701+00:00",
+      "timestampEdited": "2020-08-29T06:51:22.489+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@paddyson , ich habe Anglizistik studiert, bin damit auch spziell f\u00FCr \u00DCbersetzungrn ausgebildet. Wie kann ich mich an Playing for Keeps mit \u00DCbersetzungen beteiligen? Hab schon f\u00FCr super viele Projekte Whitepaper, ANNs auf Bitcointalk, Webseiten etc. \u00FCbersetzt.",
+      "author": {
+        "id": "401330850161098763",
+        "name": "Hilde X",
+        "discriminator": "7640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401330850161098763/ee754e925f26f8543059ab1a8f23d5de.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "749161627026456617",
+      "type": "Default",
+      "timestamp": "2020-08-29T07:00:50.633+00:00",
+      "timestampEdited": "2020-08-29T07:25:40.198+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Gibt es ein Verfahren, wie die \u00DCbersetzungen vergeben werden? Und macht jemand Qualitatschecks oder Korrekturlesungen? Um ehrlich zu sein: viele \u00DCbersetzungen h\u00E4tten das n\u00F6tig gehabt.",
+      "author": {
+        "id": "401330850161098763",
+        "name": "Hilde X",
+        "discriminator": "7640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401330850161098763/ee754e925f26f8543059ab1a8f23d5de.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "749176999678967879",
+      "type": "Default",
+      "timestamp": "2020-08-29T08:01:55.759+00:00",
+      "timestampEdited": "2020-08-29T08:05:06.277+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Hilde X Hallo Hilde,\nes gibt kein Verfahren, wie \u00DCbersetzungen vergeben werden. Wer zuerst kommt malt zuerst \uD83D\uDE09 Dar\u00FCber hinaus wurden schon sehr viele Artikel und Dokumente \u00FCbersetzt. Bez\u00FCglich der Qualit\u00E4t gibt es aktuell keine Qualit\u00E4tschecks oder vorgeschriebene Korrekturlesungen. Allerdings gebe ich dir was die Qualit\u00E4t vieler hier zuletzt geposteten Artikel angeht absolut recht. Ich habe dem Team bereits signalisiert hier genau hinzuschauen",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "749177221788467201",
+      "type": "Default",
+      "timestamp": "2020-08-29T08:02:48.714+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wie du an Playing for KEEP teilnehmen kannst, findest du hier:\nhttps://medium.com/@pathrock_70243/wie-man-um-keeps-spielt-f006a9a02746",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wie man um Keeps spielt",
+          "url": "https://medium.com/@pathrock_70243/wie-man-um-keeps-spielt-f006a9a02746",
+          "timestamp": null,
+          "description": "Lerne KEEP zu staken und gewinne durch Beitr\u00E4ge zur Community",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*GKJucMN8ouO-69Cfj3U1vQ.png",
+            "width": 1200,
+            "height": 354
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "749177487854141512",
+      "type": "Default",
+      "timestamp": "2020-08-29T08:03:52.149+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Auch ist es notwendig seine Beitr\u00E4ge auf einem Etherpad einzureichen, um ggfs. f\u00FCr Gewinne in Frage zu kommen",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "749177699075096576",
+      "type": "Default",
+      "timestamp": "2020-08-29T08:04:42.508+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hast du auch eine testnet node am laufen? War ebenfalls gew\u00FCnscht, um die Chancen zu verbessern",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "749182860170100818",
+      "type": "Default",
+      "timestamp": "2020-08-29T08:25:13.009+00:00",
+      "timestampEdited": "2020-08-29T08:26:29.321+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Danke dir! \n\nNee, leider nicht. Will mir den ganzen Node-Kram noch erschlie\u00DFen, z. B. \u00FCber Ankr. Kann zwar gut mit Sprache, aber wenn\u2019s technisch wird, muss ich noch passen.",
+      "author": {
+        "id": "401330850161098763",
+        "name": "Hilde X",
+        "discriminator": "7640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401330850161098763/ee754e925f26f8543059ab1a8f23d5de.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "749184187814117388",
+      "type": "Default",
+      "timestamp": "2020-08-29T08:30:29.544+00:00",
+      "timestampEdited": "2020-08-29T08:35:11.194+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ich k\u00F6nnte anbieten, die Korrekturlesungen und \u00DCberarbeitungen zu \u00FCbernehmen. Das ist bei nicht so guten Vorlagen oft noch mal ein dicker Packen Arbeit, aber es macht def Sinn. Ich w\u00FCrde dir mein Portfolio per DM zusenden, schau doch mal, was das Team zu meinem Vorschlag sagt.",
+      "author": {
+        "id": "401330850161098763",
+        "name": "Hilde X",
+        "discriminator": "7640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401330850161098763/ee754e925f26f8543059ab1a8f23d5de.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "749188226715091005",
+      "type": "Default",
+      "timestamp": "2020-08-29T08:46:32.493+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Hilde X ja schicke mir mal dein Portfolio zu, da bin ich sehr gespannt drauf. Beim node aufsetzen bin ich sehr gerne behilflich.\nBez\u00FCglich deines Vorschlags zu Korrekturlesungen und \u00DCberarbeitungen, werde ich mich mit dem Team in Verbindung setzen. Ich bin mir sicher wir finden eine f\u00FCr alle passende L\u00F6sung.\n\nMir geht es insbesondere auch darum, die qualitativ schlechten \u00DCbersetzungen hier herauszufiltern, da sie f\u00FCr das Projekt keinen Mehrwert darstellen",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "749221879650189322",
+      "type": "Default",
+      "timestamp": "2020-08-29T11:00:15.978+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@paddyson Vielen Dank f\u00FCr ihre Bemerkungen und dass Sie meine Artikel gelesen haben. Ich m\u00F6chte alles  \u00FCberpr\u00FCfen. Bitte sagen Sie mir, worauf Ich achten soll: auf  Terminologie? K\u00F6nnen Sie bitte vielleicht einige Beispiele geben?",
+      "author": {
+        "id": "685578648518131752",
+        "name": "Crypt0lga",
+        "discriminator": "6338",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/685578648518131752/a80e39e23e4b7b2b8922b49e9398529a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "749223657334767682",
+      "type": "Default",
+      "timestamp": "2020-08-29T11:07:19.811+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Titel, Grammatik, Satzstellung, teilweise sind sehr unverst\u00E4ndliche Textpassagen in den Artikeln",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "749241104414539836",
+      "type": "Default",
+      "timestamp": "2020-08-29T12:16:39.519+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok, Ich werde alles noch einmal lesen und bearbeiten. Ich werde es gut machen)))\uD83D\uDCAA",
+      "author": {
+        "id": "685578648518131752",
+        "name": "Crypt0lga",
+        "discriminator": "6338",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/685578648518131752/a80e39e23e4b7b2b8922b49e9398529a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "749957356053463160",
+      "type": "Default",
+      "timestamp": "2020-08-31T11:42:47.217+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@paddyson Hallo! Ich habe die Artikel bearbeitet! K\u00F6nnen Sie mir bitte schreiben, ob es alles in Ordnung ist?",
+      "author": {
+        "id": "685578648518131752",
+        "name": "Crypt0lga",
+        "discriminator": "6338",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/685578648518131752/a80e39e23e4b7b2b8922b49e9398529a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "750064194598207568",
+      "type": "Default",
+      "timestamp": "2020-08-31T18:47:19.511+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Guten Abend) Zwei \u00DCbersetzungen sind fertig.",
+      "author": {
+        "id": "685581907614105658",
+        "name": "$Bruck",
+        "discriminator": "8756",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "750075046332072008",
+      "type": "Default",
+      "timestamp": "2020-08-31T19:30:26.766+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@sofiabru078/was-ist-defi-3defbb05d04",
+      "author": {
+        "id": "685581907614105658",
+        "name": "$Bruck",
+        "discriminator": "8756",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Was ist DeFi?",
+          "url": "https://medium.com/@sofiabru078/was-ist-defi-3defbb05d04",
+          "timestamp": null,
+          "description": "Decentralized Finance oder DeFi ist ein Begriff f\u00FCr Finanzdienstleistungen, die mit dezentralen Technologien bereitgestellt werden\u2026",
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "750077150933286980",
+      "type": "Default",
+      "timestamp": "2020-08-31T19:38:48.542+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@sofiabru078/warum-die-sicherung-von-tbtc-durch-sicherheiten-seine-st%C3%A4rke-ist-6930ac279689",
+      "author": {
+        "id": "685581907614105658",
+        "name": "$Bruck",
+        "discriminator": "8756",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Warum die Sicherung von tBTC durch Sicherheiten seine St\u00E4rke ist",
+          "url": "https://medium.com/@sofiabru078/warum-die-sicherung-von-tbtc-durch-sicherheiten-seine-st%C3%A4rke-ist-6930ac279689",
+          "timestamp": null,
+          "description": "tBTC ist eine vertrauensw\u00FCrdige Br\u00FCcke zwischen Bitcoin und Ethereum, mit der Menschen mit ihrem Bitcoin in dezentralen Finanzanwendungen\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*OJG_3QnKo9VopCSAszD3Kg.jpeg",
+            "width": 1200,
+            "height": 354
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "750077324787056681",
+      "type": "Default",
+      "timestamp": "2020-08-31T19:39:29.992+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@sofiabru078/mehrere-losgr\u00F6\u00DFen-machen-tbtc-zuverl\u00E4ssig-und-f\u00FCr-jedermann-erschwinglich-eaf5b42f2fdf",
+      "author": {
+        "id": "685581907614105658",
+        "name": "$Bruck",
+        "discriminator": "8756",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Mehrere Losgr\u00F6\u00DFen machen tBTC zuverl\u00E4ssig und f\u00FCr jedermann erschwi...",
+          "url": "https://medium.com/@sofiabru078/mehrere-losgr%C3%B6%C3%9Fen-machen-tbtc-zuverl%C3%A4ssig-und-f%C3%BCr-jedermann-erschwinglich-eaf5b42f2fdf",
+          "timestamp": null,
+          "description": "Einzahlungen und R\u00FCcknahmen auf tBTC erfolgen in Losen. Um das System rational und \u00FCberschaubar zu machen, m\u00FCssen Einzahlungs- und\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*OJG_3QnKo9VopCSAszD3Kg.jpeg",
+            "width": 1200,
+            "height": 354
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "750135469270106122",
+      "type": "Default",
+      "timestamp": "2020-08-31T23:30:32.717+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Crypt0lga denke das reicht noch nicht, aber habe gesehen du hast deine Beitr\u00E4ge eingereicht, also wird das team entscheiden",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "750135505386995784",
+      "type": "Default",
+      "timestamp": "2020-08-31T23:30:41.328+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Viel Gl\u00FCck",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "752874545404444753",
+      "type": "Default",
+      "timestamp": "2020-09-08T12:54:39.357+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@pathrock_70243/ein-einfacher-leitfaden-f%C3%BCr-anf%C3%A4nger-um-sowohl-die-ecdsa-als-auch-die-beacon-node-des-98cd6d1c8ff",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Ein einfacher Leitfaden f\u00FCr Anf\u00E4nger, um sowohl die ECDSA- als auch...",
+          "url": "https://medium.com/@pathrock_70243/ein-einfacher-leitfaden-f%C3%BCr-anf%C3%A4nger-um-sowohl-die-ecdsa-als-auch-die-beacon-node-des-98cd6d1c8ff",
+          "timestamp": null,
+          "description": "08/08/2020 alle Konfigurationsdateien und Befehle werden aktualisiert, um die neueste Version zu installieren",
+          "thumbnail": {
+            "url": "https://miro.medium.com/freeze/max/700/1*qPEgJtERPeVA3ff93rurTA.gif",
+            "width": 700,
+            "height": 444
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "752874630456410223",
+      "type": "Default",
+      "timestamp": "2020-09-08T12:54:59.635+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "auf die neueste Version aktualisiert",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "758438292487274547",
+      "type": "Default",
+      "timestamp": "2020-09-23T21:23:00.031+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@pathrock_70243/wonach-james-prestwich-in-der-september-ausgabe-von-playing-for-keeps-sucht-af3e71a9b731",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wonach James Prestwich in der September-Ausgabe von \u201CPlaying for Ke...",
+          "url": "https://medium.com/@pathrock_70243/wonach-james-prestwich-in-der-september-ausgabe-von-playing-for-keeps-sucht-af3e71a9b731",
+          "timestamp": null,
+          "description": "Zu den Schwerpunkten geh\u00F6ren die Verbesserung der Bitcoin-Werkzeuge und -Dienstleistungen sowie der Einzahlungsprozess des tBTC.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/700/1*WCoNJ0mX6zE9qKXcN2WOog.png",
+            "width": 700,
+            "height": 350
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "759805292405587979",
+      "type": "Default",
+      "timestamp": "2020-09-27T15:54:58.209+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@pathrock_70243/tbtc-der-sichere-weg-bitcoin-in-defi-zu-nutzen-ist-live-auf-tbtc-network-8251fd980a5e",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "tBTC, der sichere Weg Bitcoin in DeFi zu nutzen, ist live auf tbtc....",
+          "url": "https://medium.com/@pathrock_70243/tbtc-der-sichere-weg-bitcoin-in-defi-zu-nutzen-ist-live-auf-tbtc-network-8251fd980a5e",
+          "timestamp": null,
+          "description": "tBTC wurde mit noch nie dagewesenen Sicherheitsma\u00DFnahmen eingef\u00FChrt und ist bereit, im tbtc.network eingesetzt zu werden. tBTC ist\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/freeze/max/1200/1*An_cQWdrvDyAZymGxFwY1g.gif",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "760013250686746635",
+      "type": "Default",
+      "timestamp": "2020-09-28T05:41:19.327+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hallo! Ich habe eine Nachrichtenseite f\u00FCr die Deutschsprachige Gemeinschaft gemacht - keepnetwork.de, auf der ich alle vorhandenen \u00DCbersetzungen von Artikeln ver\u00F6ffentlichen m\u00F6chte und auch jedem anbieten m\u00F6chte, neue \u00DCbersetzungen auf dieser Ressource zu ver\u00F6ffentlichen. Sehr geehrte @paddyson, @zippi @ViktoriaW @$Bruck @Crypto Klaus , ich bitte Sie um Erlaubnis, Ihre \u00DCbersetzungen zu ver\u00F6ffentlichen.",
+      "author": {
+        "id": "685578648518131752",
+        "name": "Crypt0lga",
+        "discriminator": "6338",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/685578648518131752/a80e39e23e4b7b2b8922b49e9398529a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "760199044596629505",
+      "type": "Default",
+      "timestamp": "2020-09-28T17:59:36.047+00:00",
+      "timestampEdited": "2020-09-29T17:19:51.73+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Crypt0lga  Its great so see, that you put so much effort into Keep. On the other hand I\u2019d like to remark that for me as a German native speaker its pretty obvious that German is not your native language and that your \u201Ctranslations\u201D are done with a translator tool. Vocabulary, grammar, proper names, expressions - the algos became better but they are not as good as they need to be. \n\nSo from my perspective I\u2019d appreciate if you were honest and not try to cheat on the project and the team to make tokens. Translations are more than using a tool. Bad \u201Ctranslations\u201D make the project look shitty and might mislead folks about things they should be aware of, making them lose money - which is then reflecting badly on the project.",
+      "author": {
+        "id": "401330850161098763",
+        "name": "Hilde X",
+        "discriminator": "7640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401330850161098763/ee754e925f26f8543059ab1a8f23d5de.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "760551048850178099",
+      "type": "Default",
+      "timestamp": "2020-09-29T17:18:20.401+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":thumbsup:",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "761266611134136390",
+      "type": "Default",
+      "timestamp": "2020-10-01T16:41:43.744+00:00",
+      "timestampEdited": "2020-10-01T17:29:57.713+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "~~Ich \u00FCbersetze diesen Artikel, bin schon gut voran gekommen.~~ Artikel ist fertig! \uD83D\uDE42",
+      "author": {
+        "id": "401330850161098763",
+        "name": "Hilde X",
+        "discriminator": "7640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401330850161098763/ee754e925f26f8543059ab1a8f23d5de.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "761266661986533436",
+      "type": "Default",
+      "timestamp": "2020-10-01T16:41:55.868+00:00",
+      "timestampEdited": "2020-10-01T17:29:35.998+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@keepnetwork.dach/tbtc-schafft-sicheren-zugang-zu-celo-und-so-neue-m\u00F6glichkeiten-f\u00FCr-btc-halter-97df02eba11a",
+      "author": {
+        "id": "401330850161098763",
+        "name": "Hilde X",
+        "discriminator": "7640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401330850161098763/ee754e925f26f8543059ab1a8f23d5de.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "tBTC schafft sicheren Zugang zu Celo\u200A\u2014\u200Aund so neue M\u00F6glichkeiten f\u00FC...",
+          "url": "https://medium.com/@keepnetwork.dach/tbtc-schafft-sicheren-zugang-zu-celo-und-so-neue-m%C3%B6glichkeiten-f%C3%BCr-btc-halter-97df02eba11a",
+          "timestamp": null,
+          "description": "Wir haben gute News! tBTC, die erste App, dank der Bitcoin-Inhaber Geld mit den DeFi-Apps der Ethereum-Blockchain verdienen k\u00F6nnen\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/700/1*wcdzqIDz4EnJFCeVxXtZqQ.png",
+            "width": 700,
+            "height": 206
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "761287389863608340",
+      "type": "Default",
+      "timestamp": "2020-10-01T18:04:17.779+00:00",
+      "timestampEdited": "2020-10-01T18:19:09.746+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Neben nem deutschsprachigen Medium gibts jetzt auch ne Telegram-Gruppe f\u00FCr den deutschsprachigen Raum. Kommt mit rein! https://t.me/keep_network_dach",
+      "author": {
+        "id": "401330850161098763",
+        "name": "Hilde X",
+        "discriminator": "7640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401330850161098763/ee754e925f26f8543059ab1a8f23d5de.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Keep Network | DACH",
+          "url": "https://t.me/keep_network_dach",
+          "timestamp": null,
+          "description": "You can view and join @keep_network_dach right away.",
+          "thumbnail": {
+            "url": "https://cdn4.telesco.pe/file/T6DxiOLdwhn0KR9hdr2VDvb1lIyAOY_lx6gztsz-2MB8wKxWVa4kQ5VQseYT0QVxjJcvXpE02FVGdTT-qGVZ7v0s88tRvZHogv9QaJybgFMqdPDqmbYvfLpKCdzlYrjPsAV9sgbsTUs2ow-LoZbHSYFWQGhQvwK3T0jGesmf9M4WDQw8BFOn_pRo8khD_RCOtFwOu-ilkuPZ6nvoWR6xluuwtPWFi2m_dNE3lCL-guOW7Jboq-2_WCu3ReJp9zBptJ-Y-J_6MUghSiaiek33KfVHCpKA7xludwhMn3FtuGbf1HCJsc3XNIzuS7YZT7b9oGFft-m_N1g-NHkdusXQdQ.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "761989806124564540",
+      "type": "Default",
+      "timestamp": "2020-10-03T16:35:26.866+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sehr sch\u00F6n @Hilde X bin schon da",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "763476136994144266",
+      "type": "Default",
+      "timestamp": "2020-10-07T19:01:35.76+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tBTC-Artikel ist \u00FCbersetzt --\u003E https://medium.com/@keepnetwork.dach/gemini-bietet-ab-sofort-depotservice-f\u00FCr-tbtc-fd6ef355d111",
+      "author": {
+        "id": "401330850161098763",
+        "name": "Hilde X",
+        "discriminator": "7640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/401330850161098763/ee754e925f26f8543059ab1a8f23d5de.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Gemini bietet ab sofort Depotservice f\u00FCr tBTC",
+          "url": "https://medium.com/@keepnetwork.dach/gemini-bietet-ab-sofort-depotservice-f%C3%BCr-tbtc-fd6ef355d111",
+          "timestamp": null,
+          "description": "Gemini, die  globale Kryptow\u00E4hrungsb\u00F6rse und Depotverwalter, unterst\u00FCtzt jetzt die Verwahrung von tBTC. Mit tBTC, einem\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/700/1*xy2WWMtCc0Y-8DmqsQnwJA.jpeg",
+            "width": 700,
+            "height": 245
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "763717828519395358",
+      "type": "Default",
+      "timestamp": "2020-10-08T11:01:59.51+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah sehr sch\u00F6n @Hilde X",
+      "author": {
+        "id": "394870302691295234",
+        "name": "paddyson",
+        "discriminator": "5479",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394870302691295234/0c770fdf75200b04a29d38d9fe53e2e3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    }
+  ],
+  "messageCount": 122
+}

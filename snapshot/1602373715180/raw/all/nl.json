@@ -1,0 +1,173 @@
+{
+  "guild": {
+    "id": "590951101600235531",
+    "name": "keep",
+    "iconUrl": "https://cdn.discordapp.com/icons/590951101600235531/15ed6b44b260db676a6ad9be4f554cda.png"
+  },
+  "channel": {
+    "id": "746870443562106890",
+    "type": "GuildTextChat",
+    "category": "\uD83C\uDF0Dglobal",
+    "name": "\uD83C\uDDF3\uD83C\uDDF1keep-nl",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "746872302225850408",
+      "type": "Default",
+      "timestamp": "2020-08-22T23:23:53.067+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Welkom bij het kanaal Keep Discord Dutch.\n\nDit kanaal is bedoeld voor conversatie en discussie over Keep en tBTC in het Nederlands. Dit kanaal wordt meestal niet gemonitord, maar het Keep-team zal mediaberichten over Keep en tBTC in het Nederlands delen. Het team kan ook (onvolkomen) reageren met google translate.\n\nTag ons als je iets nodig hebt!",
+      "author": {
+        "id": "377359211144675330",
+        "name": "Kris",
+        "discriminator": "8703",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "746872327668498498",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2020-08-22T23:23:59.133+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "377359211144675330",
+        "name": "Kris",
+        "discriminator": "8703",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "746873193104539732",
+      "type": "Default",
+      "timestamp": "2020-08-22T23:27:25.469+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Leendert  @Krok @Aerts \nIk heb het kanaal geopend, sorry dat het zo lang duurde!",
+      "author": {
+        "id": "377359211144675330",
+        "name": "Kris",
+        "discriminator": "8703",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "751554329906774176",
+      "type": "Default",
+      "timestamp": "2020-09-04T21:28:35.454+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello @Kris can I dm you?",
+      "author": {
+        "id": "437410558594121748",
+        "name": "Ken Berey",
+        "discriminator": "1598",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437410558594121748/4dfef4002e2f61417cec76e304656d9b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "752294537002745925",
+      "type": "Default",
+      "timestamp": "2020-09-06T22:29:54.578+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u003E Hello @Kris can I dm you?\n@Ken Berey you bet!",
+      "author": {
+        "id": "377359211144675330",
+        "name": "Kris",
+        "discriminator": "8703",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "752365637896241162",
+      "type": "Default",
+      "timestamp": "2020-09-07T03:12:26.352+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Kris are you looking for Filipino translation?",
+      "author": {
+        "id": "437410558594121748",
+        "name": "Ken Berey",
+        "discriminator": "1598",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437410558594121748/4dfef4002e2f61417cec76e304656d9b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "752782735130492928",
+      "type": "Default",
+      "timestamp": "2020-09-08T06:49:50.082+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ken Berey sure, but take that to #\uD83D\uDCDAtranslations",
+      "author": {
+        "id": "377359211144675330",
+        "name": "Kris",
+        "discriminator": "8703",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "753031524709826621",
+      "type": "Default",
+      "timestamp": "2020-09-08T23:18:26.14+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I\u0027m so excited for this one, @Kris please let me know when should I start.",
+      "author": {
+        "id": "437410558594121748",
+        "name": "Ken Berey",
+        "discriminator": "1598",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437410558594121748/4dfef4002e2f61417cec76e304656d9b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    }
+  ],
+  "messageCount": 8
+}

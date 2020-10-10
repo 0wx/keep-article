@@ -1,0 +1,749 @@
+{
+  "guild": {
+    "id": "590951101600235531",
+    "name": "keep",
+    "iconUrl": "https://cdn.discordapp.com/icons/590951101600235531/15ed6b44b260db676a6ad9be4f554cda.png"
+  },
+  "channel": {
+    "id": "698994569072738442",
+    "type": "GuildTextChat",
+    "category": "\uD83C\uDF0Dglobal",
+    "name": "\uD83C\uDDF5\uD83C\uDDF1keep-pl",
+    "topic": "Polish language channel"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "698995102714167327",
+      "type": "Default",
+      "timestamp": "2020-04-12T20:36:59.188+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Weso\u0142ego Alleluja!",
+      "author": {
+        "id": "677292813603438653",
+        "name": "Matt Luongo",
+        "discriminator": "4163",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/677292813603438653/248fcd31aca6382a429b1ba02817fc4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE03",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f603.png"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD73",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f973.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f425.png"
+          },
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "699145518265401405",
+      "type": "Default",
+      "timestamp": "2020-04-13T06:34:41.05+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Smacznego jajka! \uD83D\uDE42",
+      "author": {
+        "id": "469863531005739010",
+        "name": "Piotr Dyraga",
+        "discriminator": "3213",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/469863531005739010/49317a0ea1efa1a5e6907f7a798a3004.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "699218015316607057",
+      "type": "Default",
+      "timestamp": "2020-04-13T11:22:45.694+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":))) Alleluja",
+      "author": {
+        "id": "388836673296793600",
+        "name": "huglester",
+        "discriminator": "0730",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/388836673296793600/cbebe6672822c29896508db95997cb6a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "699220329955983362",
+      "type": "Default",
+      "timestamp": "2020-04-13T11:31:57.547+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "226744957153574930",
+        "name": "Nik G",
+        "discriminator": "5422",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/226744957153574930/f8e2e2c5fbc84ab96be88f77f55b1e0c.png"
+      },
+      "attachments": [
+        {
+          "id": "699220329964503040",
+          "url": "https://cdn.discordapp.com/attachments/698994569072738442/699220329964503040/Bolek-i-Lolek.jpg",
+          "fileName": "Bolek-i-Lolek.jpg",
+          "fileSizeBytes": 57031
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u261D\uFE0F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/261d.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 8
+        }
+      ]
+    },
+    {
+      "id": "699220706637905980",
+      "type": "Default",
+      "timestamp": "2020-04-13T11:33:27.355+00:00",
+      "timestampEdited": "2020-04-13T11:41:10.898+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Kuba and @Piotr Dyraga in the early days \u261D\uFE0F (imagining the future of decentralized computing\uD83D\uDE04 )",
+      "author": {
+        "id": "226744957153574930",
+        "name": "Nik G",
+        "discriminator": "5422",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/226744957153574930/f8e2e2c5fbc84ab96be88f77f55b1e0c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "699221174407921704",
+      "type": "Default",
+      "timestamp": "2020-04-13T11:35:18.88+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Mokrego Dyngusa \uD83D\uDCA6",
+      "author": {
+        "id": "552817766424641536",
+        "name": "Kuba",
+        "discriminator": "6856",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/552817766424641536/8e22287d9b32e8a9115772c89d5ba483.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\u2614",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2614.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "720540404767784991",
+      "type": "Default",
+      "timestamp": "2020-06-11T07:30:19.49+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "czesc, wszystkim",
+      "author": {
+        "id": "422829268540588033",
+        "name": "CoinInsiderPL",
+        "discriminator": "0850",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/422829268540588033/554abb3b8090515237a1d84995da3ae2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF89",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f389.png"
+          },
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "720738004238598186",
+      "type": "Default",
+      "timestamp": "2020-06-11T20:35:30.875+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bry!",
+      "author": {
+        "id": "299610866377162752",
+        "name": "Silence",
+        "discriminator": "3575",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/299610866377162752/de7b23a9d59a60383dff5992e6634e59.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF89",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f389.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "720864321961459712",
+      "type": "Default",
+      "timestamp": "2020-06-12T04:57:27.367+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hej!",
+      "author": {
+        "id": "469863531005739010",
+        "name": "Piotr Dyraga",
+        "discriminator": "3213",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/469863531005739010/49317a0ea1efa1a5e6907f7a798a3004.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "720919438555086929",
+      "type": "Default",
+      "timestamp": "2020-06-12T08:36:28.187+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pom\u00F3g\u0142by kto\u015B ogarn\u0105\u0107 noda?",
+      "author": {
+        "id": "422829268540588033",
+        "name": "CoinInsiderPL",
+        "discriminator": "0850",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/422829268540588033/554abb3b8090515237a1d84995da3ae2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "720919520302333992",
+      "type": "Default",
+      "timestamp": "2020-06-12T08:36:47.677+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ja totalnie nie techniczny\uD83D\uDE05",
+      "author": {
+        "id": "422829268540588033",
+        "name": "CoinInsiderPL",
+        "discriminator": "0850",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/422829268540588033/554abb3b8090515237a1d84995da3ae2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "725238178147205120",
+      "type": "Default",
+      "timestamp": "2020-06-24T06:37:35.944+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Serwus \uD83D\uDC4B",
+      "author": {
+        "id": "552817766424641536",
+        "name": "Kuba",
+        "discriminator": "6856",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/552817766424641536/8e22287d9b32e8a9115772c89d5ba483.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "725238414525333534",
+      "type": "Default",
+      "timestamp": "2020-06-24T06:38:32.301+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u003E pom\u00F3g\u0142by kto\u015B ogarn\u0105\u0107 noda?\n@CoinInsiderPL \n\nPolecam rzuci\u0107 okiem na https://discordapp.com/channels/590951101600235531/723194426985545792/723483384021647380.\nPowiniene\u015B znale\u017A\u0107 tam wszystkie potrzebne informacje. W razie pyta\u0144 dawaj zna\u0107.",
+      "author": {
+        "id": "552817766424641536",
+        "name": "Kuba",
+        "discriminator": "6856",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/552817766424641536/8e22287d9b32e8a9115772c89d5ba483.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "732144864635912227",
+      "type": "Default",
+      "timestamp": "2020-07-13T08:02:18.323+00:00",
+      "timestampEdited": "2020-07-13T08:03:32.231+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Czesc wszystkim, szkoda ze polski to moj 3-4 jezyk, widze ze nisza jest nie tak zatloczona jak w RU community, tak bym napisal kilka prostych gajdow na co bym wystarczylo sil:)) \nCheers, chlopaki",
+      "author": {
+        "id": "487740089015730181",
+        "name": "saltynarwhal",
+        "discriminator": "6240",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/487740089015730181/2a0c227c611e563480723fe74a24c525.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "732186446357856257",
+            "name": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/732186446357856257.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64c.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "736574963749879908",
+      "type": "Default",
+      "timestamp": "2020-07-25T13:25:56.259+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Co\u015B tu jest za cicho.  Stworzy\u0142em stron\u0119 na Twitterze dla Keep. Do\u0142\u0105czajcie  :stakedrop: :thumbsup:",
+      "author": {
+        "id": "487171248388964354",
+        "name": "red133514",
+        "discriminator": "1982",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/487171248388964354/67a508495b883ea4fccc27419173e07c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "736574992455827456",
+      "type": "Default",
+      "timestamp": "2020-07-25T13:26:03.103+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/keep_project_PL",
+      "author": {
+        "id": "487171248388964354",
+        "name": "red133514",
+        "discriminator": "1982",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/487171248388964354/67a508495b883ea4fccc27419173e07c.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Keep #tBTC Poland \uD83C\uDDF5\uD83C\uDDF1 (@keep_project_PL)",
+          "url": "https://twitter.com/keep_project_PL",
+          "timestamp": null,
+          "description": "Keep buduje infrastruktur\u0119 dla autonomicznych prywatnych danych w blockchainach publicznych, DApps i DAO, w tym #tBTC. Buduj z nami!",
+          "thumbnail": {
+            "url": "https://pbs.twimg.com/profile_images/1286997173264097281/E6Qtjour_normal.jpg",
+            "width": 48,
+            "height": 48
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": [
+            {
+              "name": "Tweets",
+              "value": "4",
+              "isInline": true
+            },
+            {
+              "name": "Followers",
+              "value": "120",
+              "isInline": true
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64c.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "736576197106073681",
+      "type": "Default",
+      "timestamp": "2020-07-25T13:30:50.314+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "je\u015Bli kto\u015B ma ochot\u0119 pom\u00F3c w t\u0142umaczeniu dokumentacji lub w czym\u015B innym - napiszcie, wrzuc\u0119 to na twitter :keep:",
+      "author": {
+        "id": "487171248388964354",
+        "name": "red133514",
+        "discriminator": "1982",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/487171248388964354/67a508495b883ea4fccc27419173e07c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE80",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f680.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "742821715897483285",
+      "type": "Default",
+      "timestamp": "2020-08-11T19:08:18.03+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Translated article for the Polish community of minting tBTC  https://medium.com/@dmitrobezru61/jak-korzysta%C4%87-z-aplikacji-tbtc-dapp-4d3ec790d1e3\n2.    Translated an article into Polish about Millennials https://medium.com/@dmitrobezru61/jak-milenialsi-kszta%C5%82tuj%C4%85-przysz%C5%82o%C5%9B%C4%87-pieni%C4%85dza-f7e0ac80972b",
+      "author": {
+        "id": "742415589628182569",
+        "name": "trust_boy",
+        "discriminator": "1481",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/742415589628182569/449f33fc5ff8ce3ebdbe7ee43da26b55.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Jak korzysta\u0107 z aplikacji tBTC dApp",
+          "url": "https://medium.com/@dmitrobezru61/jak-korzysta%C4%87-z-aplikacji-tbtc-dapp-4d3ec790d1e3",
+          "timestamp": null,
+          "description": "To jest przewodnik krok po kroku dotycz\u0105cy korzystania z aplikacji tBTC dApp.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*vRgCSzfMU6IYS-jXvP77QQ.png",
+            "width": 1200,
+            "height": 674
+          },
+          "fields": []
+        },
+        {
+          "title": "Jak milenialsi kszta\u0142tuj\u0105 przysz\u0142o\u015B\u0107 pieni\u0105dza",
+          "url": "https://medium.com/@dmitrobezru61/jak-milenialsi-kszta%C5%82tuj%C4%85-przysz%C5%82o%C5%9B%C4%87-pieni%C4%85dza-f7e0ac80972b",
+          "timestamp": null,
+          "description": "Matt Luongo jest CEO Thesis, firmy zajmuj\u0105cej si\u0119 kryptowalut\u0105. Pierwsze dwa produkty Thesis to Fold, aplikacja p\u0142atnicza i Keep, warstwa\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/710/0*GSZmZ4RQUHxVRg30.jpg",
+            "width": 710,
+            "height": 458
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64c.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE80",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f680.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60d.png"
+          },
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "749226229147631626",
+      "type": "Default",
+      "timestamp": "2020-08-29T11:17:32.979+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Translated  article for the Polish community \u0022tBTC vs wBTC\u0022   https://medium.com/@nesonovy/btc-na-ethereum-tbtc-vs-wbtc-10d782f89746?sk=ef21054994cfbd89de7076f28a8fdbed",
+      "author": {
+        "id": "470826545867522048",
+        "name": "Pupsik06",
+        "discriminator": "3879",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/470826545867522048/374722f29df71c970320c64c321ff860.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BTC na Ethereum. tBTC vs wBTC",
+          "url": "https://medium.com/@nesonovy/btc-na-ethereum-tbtc-vs-wbtc-10d782f89746?sk=ef21054994cfbd89de7076f28a8fdbed",
+          "timestamp": null,
+          "description": "(Wersja polska)",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/700/1*zxNJKfj2HnNSecucCdf6SQ.png",
+            "width": 700,
+            "height": 516
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "732186446357856257",
+            "name": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/732186446357856257.png"
+          },
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "756934534624313424",
+      "type": "Default",
+      "timestamp": "2020-09-19T17:47:36.218+00:00",
+      "timestampEdited": "2020-09-19T17:53:05.901+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I\u0027m happy to raise awareness about KEEP Network project among different nationalities \uD83E\uDDD1\u200D\uD83E\uDD1D\u200D\uD83E\uDDD1  And I translated and published some articles for Polish speaking community\uD83D\uDC4B \n1) https://medium.com/@alionaalias/dlaczego-keep-jest-wa%C5%BCny-wersja-polska-d9f9b2577097\n2)https://medium.com/@alionaalias/playing-for-keeps-wersja-polska-ee413a8c1384\n3)https://medium.com/@alionaalias/co-to-jest-defi-wersja-polska-b4cfba339393\nAlso I published these articles on my twitter channel : https://twitter.com/alionaalias",
+      "author": {
+        "id": "474114172020457472",
+        "name": "alias",
+        "discriminator": "3824",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/474114172020457472/fc5d4658c0d54e69ac2f0ee3e49f1772.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "757698526938661089",
+      "type": "Default",
+      "timestamp": "2020-09-21T20:23:26.18+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello. Can u give me please 20 test \u0415\u0422\u041D?0x4984C30F823f91d5E2c4477223B6434c90416F88",
+      "author": {
+        "id": "452858176526876692",
+        "name": "oldu",
+        "discriminator": "1220",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452858176526876692/8a9c4b0ad4f4775086cdd9efeef658d8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "758681771176362005",
+      "type": "Default",
+      "timestamp": "2020-09-24T13:30:29.874+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Translated the article into Polish https://medium.com/@dmitrobezru61/tbtc-bezpieczny-spos%C3%B3b-korzystania-z-bitcoin-w-defi-jest-dost%C4%99pny-w-sieci-tbtc-network-7ed742d7046c",
+      "author": {
+        "id": "742415589628182569",
+        "name": "trust_boy",
+        "discriminator": "1481",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/742415589628182569/449f33fc5ff8ce3ebdbe7ee43da26b55.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "tBTC, bezpieczny spos\u00F3b korzystania z Bitcoin w DeFi, jest dost\u0119pny...",
+          "url": "https://medium.com/@dmitrobezru61/tbtc-bezpieczny-spos%C3%B3b-korzystania-z-bitcoin-w-defi-jest-dost%C4%99pny-w-sieci-tbtc-network-7ed742d7046c",
+          "timestamp": null,
+          "description": "Uruchomiony z bezprecedensowymi \u015Brodkami bezpiecze\u0144stwa i gotowy do u\u017Cycia w tbtc.network, tBTC jest w pe\u0142ni audytowany i open source.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/freeze/max/1200/0*5GVSnPxzA09dzYPe.gif",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "759791096619597855",
+      "type": "Default",
+      "timestamp": "2020-09-27T14:58:33.67+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u003E Hello. Can u give me please 20 test \u0415\u0422\u041D?0x4984C30F823f91d5E2c4477223B6434c90416F88\n@oldu try this one https://faucet.dimensions.network/, but i think it would be better for you next time to look in technical channels on this server.",
+      "author": {
+        "id": "285491460336254976",
+        "name": "choichoi463",
+        "discriminator": "1907",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/285491460336254976/a460606abd064f7d302cd87ed32f2f43.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "759791716982849587",
+      "type": "Default",
+      "timestamp": "2020-09-27T15:01:01.576+00:00",
+      "timestampEdited": "2020-09-27T15:01:33.477+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u003E @oldu try this one https://faucet.dimensions.network/, but i think it would be better for you next time to look in technical channels on this server.\n@choichoi463 it didn\u0027t work for 3 days. after that i wrote.no longer relevant. but thanks",
+      "author": {
+        "id": "452858176526876692",
+        "name": "oldu",
+        "discriminator": "1220",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/452858176526876692/8a9c4b0ad4f4775086cdd9efeef658d8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "760790338025291776",
+      "type": "Default",
+      "timestamp": "2020-09-30T09:09:11.386+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I created a telegram chat for the Polish community. Join and there will be all the relevant information and discussion of the project https://t.me/Keep_Network_PL",
+      "author": {
+        "id": "739457653302100048",
+        "name": "tom_bit",
+        "discriminator": "6381",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/739457653302100048/804ca8a68d52c425d69b5ec87bf64f68.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Keep Network (Polish)",
+          "url": "https://t.me/Keep_Network_PL",
+          "timestamp": null,
+          "description": "You can view and join @Keep_Network_PL right away.",
+          "thumbnail": {
+            "url": "https://cdn4.telesco.pe/file/FgUX-GiRokp2CC-5w5CjlcT0LMmy7ncU1bRcmsGa1WREj5VCaYQ5r0hzGXAftB5qFlurfyyFM1l7C-03IjoI98lZRdD-vF8f9TaKvTwMt91FIgpxgO6O9N3FTYKq2YO0Sz_wdqg_c63yrk3kXddGu9oD1Vi4FyN200ANemg0qC6Boam0VPuW62svVPsO602Li60SDu7eF_WxvWSg_MOyAI7h4bdhaHx0QXeL8EmVHHy18TPrPqmHZbHCMl5d-lZb3xjKkHhT1vUso0N1zyrVvYQHCDfKUublDIPJzcVdZySzQ3SriGRbNuu9ijr-liPN97IbQRz9zU4S4IBo4xFtOw.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    }
+  ],
+  "messageCount": 25
+}

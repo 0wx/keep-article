@@ -1,0 +1,186 @@
+{
+  "guild": {
+    "id": "590951101600235531",
+    "name": "keep",
+    "iconUrl": "https://cdn.discordapp.com/icons/590951101600235531/15ed6b44b260db676a6ad9be4f554cda.png"
+  },
+  "channel": {
+    "id": "697376240000172082",
+    "type": "GuildTextChat",
+    "category": "\uD83C\uDF0Dglobal",
+    "name": "\uD83C\uDDF5\uD83C\uDDF9\uD83C\uDDE7\uD83C\uDDF7keep-pt",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "697376530237489192",
+      "type": "Default",
+      "timestamp": "2020-04-08T09:25:21.438+00:00",
+      "timestampEdited": "2020-09-09T20:39:52.822+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Bem-vindo ao Keep Discord Canal em portugu\u00EAs.\n\nEste canal \u00E9 para conversas e discuss\u00F5es sobre o Keep e o tBTC, escritos em portugu\u00EAs. Esse canal geralmente n\u00E3o \u00E9 monitorado, mas a equipe do Keep compartilhar\u00E1 hist\u00F3rias de m\u00EDdia que cobrem o Keep e o tBTC escritos em portugu\u00EAs. A equipe tamb\u00E9m pode responder (aproximadamente) usando o google translate.\n\nEtiquete-nos se precisar de algo!",
+      "author": {
+        "id": "377359211144675330",
+        "name": "Kris",
+        "discriminator": "8703",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "697376554677829672",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2020-04-08T09:25:27.265+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "377359211144675330",
+        "name": "Kris",
+        "discriminator": "8703",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "753385605160894529",
+      "type": "Default",
+      "timestamp": "2020-09-09T22:45:25.498+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@daniellmesquita.eth, @Evandro Saturnino, @Leonardo Saturnino let me know if there are changes required here \uD83D\uDE42",
+      "author": {
+        "id": "377359211144675330",
+        "name": "Kris",
+        "discriminator": "8703",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377359211144675330/376d6069a4f6429aed4868ceec23b59d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f525.png"
+          },
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "753397312335642646",
+      "type": "Default",
+      "timestamp": "2020-09-09T23:31:56.706+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\u003E @daniellmesquita.eth, @Evandro Saturnino, @Leonardo Saturnino let me know if there are changes required here \nHey @Kris Awesome! Count on me, I\u0027m glad that you created this channel in Portuguese, it will definitely help a lot of people :okay:",
+      "author": {
+        "id": "692885873263378525",
+        "name": "Evandro Saturnino",
+        "discriminator": "9833",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/692885873263378525/ff9ef2ee1b670eddae14b4974fdda2d1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64c.png"
+          },
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "753398014818648125",
+      "type": "Default",
+      "timestamp": "2020-09-09T23:34:44.191+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ol\u00E1 a todos \uD83D\uDC4B, estou acompanhando Keep desde 2018 e vou fazer Stake de ETH e de KEEP quando estiver dispon\u00EDvel na mainnet. Qualquer um que quiser conversar sobre Keep, estarei a disposi\u00E7\u00E3o!",
+      "author": {
+        "id": "692885873263378525",
+        "name": "Evandro Saturnino",
+        "discriminator": "9833",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/692885873263378525/ff9ef2ee1b670eddae14b4974fdda2d1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "753398802668322897",
+      "type": "Default",
+      "timestamp": "2020-09-09T23:37:52.029+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Traduzi alguns documentos e tutoriais sobre como configurar stake de Keep e tamb\u00E9m sobre o projeto em si, deixei dispon\u00EDvel em um site que criei exclusivamente para a comunidade Keep e para falantes de portugu\u00EAs, segue o link: https://stakingkeep.com.br/",
+      "author": {
+        "id": "692885873263378525",
+        "name": "Evandro Saturnino",
+        "discriminator": "9833",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/692885873263378525/ff9ef2ee1b670eddae14b4974fdda2d1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Home \u2013 Stakingkeep",
+          "url": "https://stakingkeep.com.br/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "stakingkeep",
+            "url": "https://stakingkeep.com.br/author/stakingkeep/"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "753399373106249789",
+      "type": "Default",
+      "timestamp": "2020-09-09T23:40:08.032+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yey \uD83D\uDE4C",
+      "author": {
+        "id": "722618231235280906",
+        "name": "Leonardo Saturnino",
+        "discriminator": "9661",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/722618231235280906/53f4efb5e7cb2204d179fa4064d58760.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    }
+  ],
+  "messageCount": 7
+}

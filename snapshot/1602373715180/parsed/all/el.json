@@ -1,0 +1,15 @@
+{
+    "guild": {
+        "id": "590951101600235531",
+        "name": "keep",
+        "iconUrl": "https://cdn.discordapp.com/icons/590951101600235531/15ed6b44b260db676a6ad9be4f554cda.png"
+    },
+    "channel": {
+        "id": "701901346483470437",
+        "type": "GuildTextChat",
+        "category": "🌍global",
+        "name": "🇬🇷keep-el",
+        "topic": "Greek language channel"
+    },
+    "results": {}
+}

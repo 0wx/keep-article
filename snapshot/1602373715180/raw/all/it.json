@@ -1,0 +1,269 @@
+{
+  "guild": {
+    "id": "590951101600235531",
+    "name": "keep",
+    "iconUrl": "https://cdn.discordapp.com/icons/590951101600235531/15ed6b44b260db676a6ad9be4f554cda.png"
+  },
+  "channel": {
+    "id": "732004950317465651",
+    "type": "GuildTextChat",
+    "category": "\uD83C\uDF0Dglobal",
+    "name": "\uD83C\uDDEE\uD83C\uDDF9keep-it",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "732005249946222673",
+      "type": "Default",
+      "timestamp": "2020-07-12T22:47:31.587+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Fabio Papo per le traduzioni della parte blog devo comunque forkare il website?",
+      "author": {
+        "id": "365571906092400641",
+        "name": "Cash__",
+        "discriminator": "7221",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/365571906092400641/0fa22b41950e4ec4bc320245bb662fb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "732005384075739208",
+      "type": "Default",
+      "timestamp": "2020-07-12T22:48:03.566+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://blog.keep.network/how-the-keep-token-works-500c9722dac0",
+      "author": {
+        "id": "365571906092400641",
+        "name": "Cash__",
+        "discriminator": "7221",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/365571906092400641/0fa22b41950e4ec4bc320245bb662fb6.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How the KEEP Token Works",
+          "url": "https://blog.keep.network/how-the-keep-token-works-500c9722dac0",
+          "timestamp": null,
+          "description": "KEEP is used to assign work on the Keep network.",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*a1rZEF1awSz0wsKdL9SuGw.jpeg",
+            "width": 1200,
+            "height": 354
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "732005423460253699",
+      "type": "Default",
+      "timestamp": "2020-07-12T22:48:12.956+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "questa \u00E8 free per esempio",
+      "author": {
+        "id": "365571906092400641",
+        "name": "Cash__",
+        "discriminator": "7221",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/365571906092400641/0fa22b41950e4ec4bc320245bb662fb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "733600246357295146",
+      "type": "Default",
+      "timestamp": "2020-07-17T08:25:28.365+00:00",
+      "timestampEdited": "2020-07-17T08:28:53.78+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/fomod-in/Guida-al-setup-di-un-KEEP-ECDSA-Node",
+      "author": {
+        "id": "365571906092400641",
+        "name": "Cash__",
+        "discriminator": "7221",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/365571906092400641/0fa22b41950e4ec4bc320245bb662fb6.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "fomod-in/Guida-al-setup-di-un-KEEP-ECDSA-Node",
+          "url": "https://github.com/fomod-in/Guida-al-setup-di-un-KEEP-ECDSA-Node",
+          "timestamp": null,
+          "description": "Guida alla configurazione di un nodo KEEP (ECDSA). Contribute to fomod-in/Guida-al-setup-di-un-KEEP-ECDSA-Node development by creating an account on GitHub.",
+          "thumbnail": {
+            "url": "https://avatars2.githubusercontent.com/u/67189658?s=400\u0026v=4",
+            "width": 256,
+            "height": 256
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "733600309326381117",
+      "type": "Default",
+      "timestamp": "2020-07-17T08:25:43.378+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "italiano",
+      "author": {
+        "id": "365571906092400641",
+        "name": "Cash__",
+        "discriminator": "7221",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/365571906092400641/0fa22b41950e4ec4bc320245bb662fb6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    },
+    {
+      "id": "734755570057478196",
+      "type": "Default",
+      "timestamp": "2020-07-20T12:56:19+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "New translation (italian) of the \u0022tBTC technical overview\u0022 content: https://github.com/fomod-in/Panoramica-tecnica-su-tBTC",
+      "author": {
+        "id": "365571906092400641",
+        "name": "Cash__",
+        "discriminator": "7221",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/365571906092400641/0fa22b41950e4ec4bc320245bb662fb6.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "fomod-in/Panoramica-tecnica-su-tBTC",
+          "url": "https://github.com/fomod-in/Panoramica-tecnica-su-tBTC",
+          "timestamp": null,
+          "description": "Guida tecnica a tBTC. Contribute to fomod-in/Panoramica-tecnica-su-tBTC development by creating an account on GitHub.",
+          "thumbnail": {
+            "url": "https://avatars2.githubusercontent.com/u/67189658?s=400\u0026v=4",
+            "width": 256,
+            "height": 256
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "736636368184279130",
+      "type": "Default",
+      "timestamp": "2020-07-25T17:29:56.217+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@fabiopapo/guida-per-minare-tbtc-nella-rete-ethereum-ropsten-testnet-e4ade51aab98?sk=3a4bcf43a4349db7597e98300fd8b4b4\nhttps://medium.com/@fabiopapo/guida-per-rimborsare-il-tbtc-dalla-rete-ethereum-ropsten-testsnet-al-portafoglio-testnet-btc-ec9fb1e14a64",
+      "author": {
+        "id": "417835652818927626",
+        "name": "Fabio Papo",
+        "discriminator": "2105",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417835652818927626/2e12d99b88e115a0b88b5abd8f9b6328.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Guida per minare tBTC nella rete Ethereum Ropsten (testnet)",
+          "url": "https://medium.com/@fabiopapo/guida-per-minare-tbtc-nella-rete-ethereum-ropsten-testnet-e4ade51aab98?sk=3a4bcf43a4349db7597e98300fd8b4b4",
+          "timestamp": null,
+          "description": "Questo \u00E8 un tutorial passo a passo per i nuovi arrivati per minare il loro primo tBTC. Inoltre rete Keep Network ha annunciato un\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/460/1*eo_tD1YFLsQ9jQkXlQ8xTA.png",
+            "width": 460,
+            "height": 633
+          },
+          "fields": []
+        },
+        {
+          "title": "Guida per rimborsare il tBTC dalla  rete Ethereum Ropsten (testsnet...",
+          "url": "https://medium.com/@fabiopapo/guida-per-rimborsare-il-tbtc-dalla-rete-ethereum-ropsten-testsnet-al-portafoglio-testnet-btc-ec9fb1e14a64",
+          "timestamp": null,
+          "description": "Questo \u00E8 un tutorial passo a passo per i nuovi arrivati che vogliono rimborsare (riscattare) il loro tBTC. Inoltre Keep Network ha\u2026",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/468/0*QyHKyeSAMzthTXgV.png",
+            "width": 468,
+            "height": 591
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "736636388799414272",
+      "type": "Default",
+      "timestamp": "2020-07-25T17:30:01.132+00:00",
+      "timestampEdited": "2020-07-25T17:30:29.301+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/@fabiopapo/una-guida-per-creare-un-nodo-ecdsa-per-il-rete-keep-network-utilizzando-digitalocean-8f7b9c62476",
+      "author": {
+        "id": "417835652818927626",
+        "name": "Fabio Papo",
+        "discriminator": "2105",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/417835652818927626/2e12d99b88e115a0b88b5abd8f9b6328.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Una guida per creare un nodo ECDSA per il rete Keep Network utilizz...",
+          "url": "https://medium.com/@fabiopapo/una-guida-per-creare-un-nodo-ecdsa-per-il-rete-keep-network-utilizzando-digitalocean-8f7b9c62476",
+          "timestamp": null,
+          "description": "https://medium.com/@ben_longstaff/a-beginners-quick-start-guide-to-staking-on-the-keep-network-testnet-using-digitalocean-5a74ca60adc3",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/0*qo0jml9fo3XZjlE-.jpeg",
+            "width": 1200,
+            "height": 799
+          },
+          "fields": []
+        }
+      ],
+      "reactions": []
+    },
+    {
+      "id": "756774162982502481",
+      "type": "Default",
+      "timestamp": "2020-09-19T07:10:20.639+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wow\uFF0CThere is a very exciting news for keep\nBibox DeFi Innovation Board will list Keep Network (KEEP) on 09/19/2020.",
+      "author": {
+        "id": "704180622654177352",
+        "name": "\u5927\u98DE",
+        "discriminator": "2965",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": []
+    }
+  ],
+  "messageCount": 9
+}
