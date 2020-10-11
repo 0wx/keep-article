@@ -1,7 +1,7 @@
 ### This is example snapshot for translation
 
 for the snapshot I use [Discord Chat Exporter CLI](https://github.com/Tyrrrz/DiscordChatExporter)
-and then I use this script [index.js](/index.js) to get every submited link from each user.
+and then I use this script [index.js](https://github.com/0wx/keep-article/tree/master/snapshot/1602373715180/index.js) to get every submited link from each user.
 It's also filter out this type of link.
 ```JavaScript
 const filterLink = [
