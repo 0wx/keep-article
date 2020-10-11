@@ -14,9 +14,9 @@ const filterLink = [
 so (_hopefuly_) it will return only article link.
 
 ##### Folder tree:
-- [raw/](/raw) 
-  - [translations.json](/raw/translations.json) - raw snapshot from translations channel
+- [raw/](https://github.com/0wx/keep-article/tree/master/snapshot/1602373715180/raw) 
+  - [translations.json](https://github.com/0wx/keep-article/tree/master/snapshot/1602373715180/raw/translations.json) - raw snapshot from translations channel
   - [all/](/raw/all) - all raw snapshot from each translation language channel
-- [parsed/](/parsed)
-  - [translations.json](/parsed/translations.json) - parsed snapshot from translations channel
-  - [all/](/parsed/all) - all parsed snapshot from each translation language channel
+- [parsed/](https://github.com/0wx/keep-article/tree/master/snapshot/1602373715180/parsed)
+  - [translations.json](https://github.com/0wx/keep-article/tree/master/snapshot/1602373715180/parsed/translations.json) - parsed snapshot from translations channel
+  - [all/](https://github.com/0wx/keep-article/tree/master/snapshot/1602373715180/parsed/all) - all parsed snapshot from each translation language channel
